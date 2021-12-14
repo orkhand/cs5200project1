@@ -3,9 +3,9 @@
 ## Contributors
 
 - Orkhan Dadashov
-    - Sports Page populating redis db
-    - shown all sports in DB
-    - Update sport, create/insert sport, delete sport function
+    - Sports Page populating Redis db
+    - show all sports in Redis DB
+    - Read sport, Update sport, create sport, delete sport function
     - Pagination of the Sports page, pagination of sport`s edit page events list
    
 
@@ -19,7 +19,7 @@
 npm install
 ```
 
-### 2. Initialzie Database and Table
+### 2. Initialzie MongoDB Database and Table
 
 ```
 npm run initializeDB
@@ -33,9 +33,10 @@ redis-server
 
 ### 3. Initialzie Redis
 
+will populate redis db
+
 ```
 npm run initializeRedis
-will populate redis db
 
 ```
 
@@ -126,7 +127,7 @@ I have used from previous project getSports() function for getiing sport and use
 
 Part 2:
 - In populateRedis i have used below data structures:
-    - Set -> await client.set(hKey, sports[i].sportsType + "," +sports[i].sportId); Here i am saving as a key my sportId and as a value i am saving my sportType + ID after when i get sport by sportID i split it in sportType and sportID and use it inmy funstion for Redis database
+    - Set -> await client.set(hKey, sports[i].sportsType + "," +sports[i].sportId); Here i am saving as a key my sportId and as a value i am saving my sportType + ID after when i get sport by sportID i split it in sportType and sportID and use it in my function for Redis database
     - List -> await client.rPush("sports", hKey); I am pushing my key (sportType) to the list
     - List await client.rPush(key, events[j].eventType); I am using list to save events in the related sportType
      
@@ -137,7 +138,7 @@ Part 2:
 ## Main SportPage :
 ![Main Sport Page](./image/NewSportsPage.png)
 
-## evnts by sport :
+## events by sport :
 ![Events for Biathlon](./image/EventsBySport.png)
 
 
@@ -169,5 +170,5 @@ Part 2:
 
 # References:
 
-[cs5200project1/part3](https://github.com/orkhand/cs5200project1/tree/main/part3)
+[cs5200project1/part3](https://github.com/orkhand/cs5200project1/tree/master/part3)
 
