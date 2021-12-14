@@ -1,0 +1,63 @@
+<h2>Athletes</h2>
+
+<form
+  action=" <%= '/athletes/' + athlete.athleteId + '/edit' %>"
+  method="POST"
+>
+<div>
+  <label class="form-label">
+    Athlete ID:
+    <input
+      class="form-control"
+      type="text"
+      name="athleteId"
+      value="<%= athlete.athleteId %>"
+      disabled
+    />
+  </label>
+</div>
+
+<div>
+  <label class="form-label">
+    Athlete Name:
+    <input
+      class="form-control"
+      type="text"
+      name="name"
+      value="<%= athlete.name %>"
+    />
+  </label>
+</div>
+
+  <!-- <div>
+    <label class="form-label">
+      Weight:
+      <input
+        class="form-control"
+        type="text"
+        name="weight"
+        value="<%= athlete.weight %>"
+      />
+    </label>
+  </div>
+
+  <div>
+    <label class="form-label">
+      Age:
+      <input
+        class="form-control"
+        type="text"
+        name="age"
+        value="<%= athlete.age %>"
+      />
+    </label>
+  </div> -->
+
+
+  <button type="submit" class="btn btn-primary">Edit</button>
+  <a
+    class="btn btn-danger"
+    href="<%= '/athletes/' + athlete.athleteId + '/delete' %>"
+    >Delete</a
+  >
+</form>

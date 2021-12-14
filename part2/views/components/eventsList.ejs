@@ -1,0 +1,20 @@
+<h2>Events</h2>
+<div class="row g-3">
+  <% for (let ref of events) { %>
+
+    <div class="col-4">
+      <div class="card p-1">
+        <h5 class="card-title"><%= ref.eventType %></h5>
+        <div class="card-text">
+          <div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+
+  <% } %>
+
+ <%- include("./eventsPagination.ejs", { currentPage, lastPage }) %>
+
+</div>

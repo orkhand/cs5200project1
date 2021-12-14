@@ -1,0 +1,16 @@
+<h2>Sport: <%= sportsType %></h2>
+<div class="row g-3">
+  <table>
+    <tr>
+    <th>Sex</th>
+    <th>Count</th>
+  </tr>
+  <% for (let ref of genderStats) { %>
+    <tr>
+      <td><%= ref.sex %> </td>
+      <td><%= ref.count %></td>
+  </tr>
+  <% } %>
+  </table>
+
+</div>

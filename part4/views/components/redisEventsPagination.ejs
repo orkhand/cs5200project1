@@ -1,0 +1,37 @@
+<% if (lastPage > 2) { %>
+    <% let  sportId = sport.ID; %>
+    <% let  prev = Math.max(currentPage - 1, 1); %>
+    <nav aria-label="Edit Events Pagination">
+      <ul class="pagination">
+        <li class="page-item">
+          <a class="page-link" href="<%= '/sports/' + sportId  + '/edit/?page=' + prev%>">Previous</a>
+        </li>
+        <li class="page-item">
+          <a class="page-link" href="<%= '/sports/' + sportId + '/edit/?page=' + 1%>"><%= 1 %></a>
+        </li>
+        <li>...</li>
+  
+        <% for(let p = Math.max(currentPage-5, 2);
+          p <= (currentPage+5) && p <= lastPage;
+          p+=1) { %>
+          <li class="<%= 'page-item' + ( p === currentPage ? ' active' : '') %>">
+            <a class="page-link" href="<%= '/sports/' + sportId + '/edit/?page=' + p%>"><%= p %></a>
+          </li>
+        <% } %>
+
+        <li>...</li>
+        <li class="page-item">
+          <a class="page-link" href="<%= '/sports/' + sportId + '/edit/?page=' + lastPage%>"
+            ><%= lastPage %></a
+          >
+        </li>
+        <% let  next = Math.min(currentPage + 1, lastPage); %>
+        <li class="page-item">
+          <a class="page-link" href="<%= '/sports/' + sportId + '/edit/?page=' + next%>">Next</a>
+        </li>
+      </ul>
+    </nav>
+  <% } else { %>
+    <div>No pagination <%= lastPage %> </div>
+  <% } %>
+  

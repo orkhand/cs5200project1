@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+  <%- include("../templates/head.ejs") %>
+  <body>
+
+    <%- include("../templates/navBar.ejs") %>
+
+    <div class="container">
+      <h1>Sport Gender Count Statistics</h1>
+
+      <%- include("../components/genderStatisticList.ejs", { sportsType , genderStats}) %>
+
+    </div>
+
+    <%- include("../templates/footer.ejs") %>
+  </body>
+</html>

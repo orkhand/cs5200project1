@@ -1,0 +1,21 @@
+<h2>Sport</h2>
+<div class="row g-3">
+  <% for (let ref of sports) { %>
+
+    <div class="col-4">
+      <div class="card p-1">
+        <h5 class="card-title"><%= ref.sportsType %></h5>
+        <div class="card-text">
+          <div>
+            <a class="btn btn-outline-primary" href="/sports/<%= ref.sportsType %>/viewInfo">Get Gender Statistics</a>
+          </div>
+        </div>
+      </div>
+    </div>
+
+
+  <% } %>
+
+ <%- include("./sportsPagination.ejs", { currentPage, lastPage }) %>
+
+</div>

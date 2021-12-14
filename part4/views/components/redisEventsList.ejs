@@ -1,0 +1,21 @@
+<h2>Events By Soport</h2>
+<div class="row g-3">
+  <% for (let ref of events) { %>
+
+    <div class="col-4">
+      <div class="card p-1">
+        <h5 class="card-title"><%= ref %></h5>
+        <div class="card-text">
+          <div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+
+  <% } %>
+  
+  <%- include("./redisEventsPagination.ejs", { sport,currentPage, lastPage }) %>
+ 
+
+</div>

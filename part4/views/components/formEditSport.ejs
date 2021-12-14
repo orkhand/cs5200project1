@@ -1,0 +1,40 @@
+<h2>Sports</h2>
+
+<form
+  action=" <%= '/sports/' + sport.ID + '/edit' %>"
+  method="POST"
+>
+<div>
+  <label class="form-label">
+    Sport ID:
+    <input
+      class="form-control"
+      type="text"
+      name="ID"
+      value="<%= sport.ID %>"
+      disabled
+    />
+  </label>
+</div>
+
+<div>
+  <label class="form-label">
+    Sport Name:
+    <input
+      class="form-control"
+      type="text"
+      name="sportsType"
+      value="<%= sport.sportsType %>"
+    />
+  </label>
+</div>
+
+
+
+  <button type="submit" class="btn btn-primary">Edit</button>
+  <a
+    class="btn btn-danger"
+    href="<%= '/sports/' + sport.ID + '/delete' %>"
+    >Delete</a
+  >
+</form>

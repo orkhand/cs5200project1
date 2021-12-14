@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html>
+  <%- include("../templates/head.ejs") %>
+  <body>
+
+    <%- include("../templates/navBar.ejs") %>
+
+    <div class="container">
+      <h1>Olympic Games</h1>
+
+
+      <% if (msg) { %>
+        <div class="alert alert-primary">
+          <%= msg %>
+        </div>
+      <% } %>
+
+
+      <div class="row">
+        <div class="col-8">
+          <% if (games) { %>
+            <%- include("../components/gamesCitySearchBar.ejs", { query }) %>
+            <%- include("../components/gamesList.ejs", { games, currentPage, lastPage }) %>
+          <% } %>
+          
+          
+          <% if (athletes) { %>
+            <%- include("../components/athleteByNameSearchBar.ejs", { query }) %>
+            <%- include("../components/athletesList.ejs", { athletes, currentPage, lastPage }) %>
+          <% } %>
+
+
+          <% if (sports) { %>
+            <%- include("../components/sportsTypeSearchBar.ejs", { query }) %>
+            <%- include("../components/sportsList.ejs", { sports, currentPage, lastPage }) %>
+          <% } %>
+
+          <% if (events) { %>
+            <%- include("../components/eventsByNameSearchBar.ejs", { query }) %>
+          <br/>
+            <%- include("../components/eventsBySportsSearchBar.ejs", { eventsBySportQuery }) %>
+            <%- include("../components/eventsList.ejs", { events, query, eventsBySportQuery, currentPage, lastPage }) %>
+          <% } %>
+        </div>
+        <% if (athletes) { %>
+        <div class="col-sm-4">
+          <%- include("../components/formCreateAthlete.ejs") %>
+        </div>
+        <% } %>
+      </div>
+
+      
+
+    </div>
+
+    <%- include("../templates/footer.ejs") %>
+  </body>
+</html>

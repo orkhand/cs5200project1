@@ -1,0 +1,3458 @@
+[
+    {
+        "sportId": 1,
+        "sportsType": "Basketball",
+        "events": [
+            {
+                "eventId": 1,
+                "eventType": "Basketball Men's Basketball"
+            },
+            {
+                "eventId": 83,
+                "eventType": "Basketball Women's Basketball"
+            }
+        ]
+    },
+    {
+        "sportId": 2,
+        "sportsType": "Judo",
+        "events": [
+            {
+                "eventId": 2,
+                "eventType": "Judo Men's Extra-Lightweight"
+            },
+            {
+                "eventId": 80,
+                "eventType": "Judo Men's Half-Middleweight"
+            },
+            {
+                "eventId": 91,
+                "eventType": "Judo Men's Lightweight"
+            },
+            {
+                "eventId": 201,
+                "eventType": "Judo Men's Heavyweight"
+            },
+            {
+                "eventId": 223,
+                "eventType": "Judo Women's Half-Middleweight"
+            },
+            {
+                "eventId": 239,
+                "eventType": "Judo Women's Half-Heavyweight"
+            },
+            {
+                "eventId": 284,
+                "eventType": "Judo Men's Open Class"
+            },
+            {
+                "eventId": 308,
+                "eventType": "Judo Men's Middleweight"
+            },
+            {
+                "eventId": 312,
+                "eventType": "Judo Men's Half-Lightweight"
+            },
+            {
+                "eventId": 330,
+                "eventType": "Judo Men's Half-Heavyweight"
+            },
+            {
+                "eventId": 360,
+                "eventType": "Judo Women's Half-Lightweight"
+            },
+            {
+                "eventId": 438,
+                "eventType": "Judo Women's Heavyweight"
+            },
+            {
+                "eventId": 484,
+                "eventType": "Judo Women's Extra-Lightweight"
+            },
+            {
+                "eventId": 512,
+                "eventType": "Judo Women's Middleweight"
+            },
+            {
+                "eventId": 513,
+                "eventType": "Judo Women's Lightweight"
+            }
+        ]
+    },
+    {
+        "sportId": 3,
+        "sportsType": "Football",
+        "events": [
+            {
+                "eventId": 3,
+                "eventType": "Football Men's Football"
+            },
+            {
+                "eventId": 55,
+                "eventType": "Football Women's Football"
+            }
+        ]
+    },
+    {
+        "sportId": 4,
+        "sportsType": "Tug-Of-War",
+        "events": [
+            {
+                "eventId": 4,
+                "eventType": "Tug-Of-War Men's Tug-Of-War"
+            }
+        ]
+    },
+    {
+        "sportId": 5,
+        "sportsType": "Speed Skating",
+        "events": [
+            {
+                "eventId": 5,
+                "eventType": "Speed Skating Women's 500 metres"
+            },
+            {
+                "eventId": 6,
+                "eventType": "Speed Skating Women's 1,000 metres"
+            },
+            {
+                "eventId": 39,
+                "eventType": "Speed Skating Men's 500 metres"
+            },
+            {
+                "eventId": 40,
+                "eventType": "Speed Skating Men's 1,500 metres"
+            },
+            {
+                "eventId": 59,
+                "eventType": "Speed Skating Men's 5,000 metres"
+            },
+            {
+                "eventId": 60,
+                "eventType": "Speed Skating Men's 10,000 metres"
+            },
+            {
+                "eventId": 265,
+                "eventType": "Speed Skating Women's 1,500 metres"
+            },
+            {
+                "eventId": 266,
+                "eventType": "Speed Skating Women's Team Pursuit (6 laps)"
+            },
+            {
+                "eventId": 270,
+                "eventType": "Speed Skating Men's 1,000 metres"
+            },
+            {
+                "eventId": 465,
+                "eventType": "Speed Skating Women's 3,000 metres"
+            },
+            {
+                "eventId": 566,
+                "eventType": "Speed Skating Men's Team Pursuit (8 laps)"
+            },
+            {
+                "eventId": 569,
+                "eventType": "Speed Skating Women's 5,000 metres"
+            },
+            {
+                "eventId": 670,
+                "eventType": "Speed Skating Men's Allround"
+            }
+        ]
+    },
+    {
+        "sportId": 6,
+        "sportsType": "Cross Country Skiing",
+        "events": [
+            {
+                "eventId": 7,
+                "eventType": "Cross Country Skiing Men's 10 kilometres"
+            },
+            {
+                "eventId": 8,
+                "eventType": "Cross Country Skiing Men's 50 kilometres"
+            },
+            {
+                "eventId": 9,
+                "eventType": "Cross Country Skiing Men's 10/15 kilometres Pursuit"
+            },
+            {
+                "eventId": 10,
+                "eventType": "Cross Country Skiing Men's 4 x 10 kilometres Relay"
+            },
+            {
+                "eventId": 11,
+                "eventType": "Cross Country Skiing Men's 30 kilometres"
+            },
+            {
+                "eventId": 63,
+                "eventType": "Cross Country Skiing Men's 15 kilometres"
+            },
+            {
+                "eventId": 249,
+                "eventType": "Cross Country Skiing Women's 5 kilometres"
+            },
+            {
+                "eventId": 250,
+                "eventType": "Cross Country Skiing Women's 10 kilometres"
+            },
+            {
+                "eventId": 251,
+                "eventType": "Cross Country Skiing Women's 20 kilometres"
+            },
+            {
+                "eventId": 267,
+                "eventType": "Cross Country Skiing Men's Sprint"
+            },
+            {
+                "eventId": 283,
+                "eventType": "Cross Country Skiing Women's 3 x 5 kilometres Relay"
+            },
+            {
+                "eventId": 386,
+                "eventType": "Cross Country Skiing Men's 18 kilometres"
+            },
+            {
+                "eventId": 394,
+                "eventType": "Cross Country Skiing Women's 30 kilometres"
+            },
+            {
+                "eventId": 395,
+                "eventType": "Cross Country Skiing Women's 15 km Skiathlon"
+            },
+            {
+                "eventId": 466,
+                "eventType": "Cross Country Skiing Women's 5/10 kilometres Pursuit"
+            },
+            {
+                "eventId": 467,
+                "eventType": "Cross Country Skiing Women's 4 x 5 kilometres Relay"
+            },
+            {
+                "eventId": 468,
+                "eventType": "Cross Country Skiing Women's 15 kilometres"
+            },
+            {
+                "eventId": 469,
+                "eventType": "Cross Country Skiing Women's 5/5 kilometres Pursuit"
+            },
+            {
+                "eventId": 504,
+                "eventType": "Cross Country Skiing Men's 10/10 kilometres Pursuit"
+            },
+            {
+                "eventId": 514,
+                "eventType": "Cross Country Skiing Men's Team Sprint"
+            },
+            {
+                "eventId": 519,
+                "eventType": "Cross Country Skiing Women's Sprint"
+            },
+            {
+                "eventId": 552,
+                "eventType": "Cross Country Skiing Women's Team Sprint"
+            },
+            {
+                "eventId": 559,
+                "eventType": "Cross Country Skiing Men's 30 km Skiathlon"
+            }
+        ]
+    },
+    {
+        "sportId": 7,
+        "sportsType": "Athletics",
+        "events": [
+            {
+                "eventId": 12,
+                "eventType": "Athletics Women's 100 metres"
+            },
+            {
+                "eventId": 13,
+                "eventType": "Athletics Women's 4 x 100 metres Relay"
+            },
+            {
+                "eventId": 29,
+                "eventType": "Athletics Men's Shot Put"
+            },
+            {
+                "eventId": 47,
+                "eventType": "Athletics Men's Pole Vault"
+            },
+            {
+                "eventId": 48,
+                "eventType": "Athletics Men's High Jump"
+            },
+            {
+                "eventId": 50,
+                "eventType": "Athletics Men's 1,500 metres"
+            },
+            {
+                "eventId": 67,
+                "eventType": "Athletics Men's 4 x 100 metres Relay"
+            },
+            {
+                "eventId": 68,
+                "eventType": "Athletics Men's Long Jump"
+            },
+            {
+                "eventId": 70,
+                "eventType": "Athletics Women's Javelin Throw"
+            },
+            {
+                "eventId": 74,
+                "eventType": "Athletics Men's 5,000 metres"
+            },
+            {
+                "eventId": 97,
+                "eventType": "Athletics Women's Shot Put"
+            },
+            {
+                "eventId": 101,
+                "eventType": "Athletics Men's 110 metres Hurdles"
+            },
+            {
+                "eventId": 103,
+                "eventType": "Athletics Women's Marathon"
+            },
+            {
+                "eventId": 104,
+                "eventType": "Athletics Men's 100 metres"
+            },
+            {
+                "eventId": 115,
+                "eventType": "Athletics Men's 400 metres Hurdles"
+            },
+            {
+                "eventId": 116,
+                "eventType": "Athletics Men's 400 metres"
+            },
+            {
+                "eventId": 117,
+                "eventType": "Athletics Men's Hammer Throw"
+            },
+            {
+                "eventId": 119,
+                "eventType": "Athletics Men's 800 metres"
+            },
+            {
+                "eventId": 142,
+                "eventType": "Athletics Men's Marathon"
+            },
+            {
+                "eventId": 143,
+                "eventType": "Athletics Men's 4 x 400 metres Relay"
+            },
+            {
+                "eventId": 144,
+                "eventType": "Athletics Men's 10,000 metres"
+            },
+            {
+                "eventId": 145,
+                "eventType": "Athletics Women's 3,000 metres"
+            },
+            {
+                "eventId": 148,
+                "eventType": "Athletics Men's 200 metres"
+            },
+            {
+                "eventId": 163,
+                "eventType": "Athletics Men's Javelin Throw"
+            },
+            {
+                "eventId": 167,
+                "eventType": "Athletics Men's 3,000 metres Steeplechase"
+            },
+            {
+                "eventId": 175,
+                "eventType": "Athletics Women's 200 metres"
+            },
+            {
+                "eventId": 181,
+                "eventType": "Athletics Men's Triple Jump"
+            },
+            {
+                "eventId": 183,
+                "eventType": "Athletics Women's Long Jump"
+            },
+            {
+                "eventId": 195,
+                "eventType": "Athletics Women's 5,000 metres"
+            },
+            {
+                "eventId": 198,
+                "eventType": "Athletics Men's Discus Throw"
+            },
+            {
+                "eventId": 221,
+                "eventType": "Athletics Women's 10,000 metres"
+            },
+            {
+                "eventId": 224,
+                "eventType": "Athletics Men's Decathlon"
+            },
+            {
+                "eventId": 230,
+                "eventType": "Athletics Women's Discus Throw"
+            },
+            {
+                "eventId": 232,
+                "eventType": "Athletics Women's 1,500 metres"
+            },
+            {
+                "eventId": 240,
+                "eventType": "Athletics Women's Pole Vault"
+            },
+            {
+                "eventId": 246,
+                "eventType": "Athletics Women's 4 x 400 metres Relay"
+            },
+            {
+                "eventId": 257,
+                "eventType": "Athletics Women's 800 metres"
+            },
+            {
+                "eventId": 268,
+                "eventType": "Athletics Women's 400 metres"
+            },
+            {
+                "eventId": 274,
+                "eventType": "Athletics Men's Javelin Throw, Both Hands"
+            },
+            {
+                "eventId": 278,
+                "eventType": "Athletics Women's 400 metres Hurdles"
+            },
+            {
+                "eventId": 288,
+                "eventType": "Athletics Women's Pentathlon"
+            },
+            {
+                "eventId": 300,
+                "eventType": "Athletics Women's High Jump"
+            },
+            {
+                "eventId": 317,
+                "eventType": "Athletics Men's Standing High Jump"
+            },
+            {
+                "eventId": 318,
+                "eventType": "Athletics Men's Standing Long Jump"
+            },
+            {
+                "eventId": 319,
+                "eventType": "Athletics Men's 20 kilometres Walk"
+            },
+            {
+                "eventId": 332,
+                "eventType": "Athletics Men's 50 kilometres Walk"
+            },
+            {
+                "eventId": 337,
+                "eventType": "Athletics Women's 100 metres Hurdles"
+            },
+            {
+                "eventId": 338,
+                "eventType": "Athletics Men's Discus Throw, Greek Style"
+            },
+            {
+                "eventId": 381,
+                "eventType": "Athletics Women's Heptathlon"
+            },
+            {
+                "eventId": 411,
+                "eventType": "Athletics Men's Stone Throw"
+            },
+            {
+                "eventId": 412,
+                "eventType": "Athletics Men's Javelin Throw, Freestyle"
+            },
+            {
+                "eventId": 413,
+                "eventType": "Athletics Men's Pentathlon (Ancient)"
+            },
+            {
+                "eventId": 417,
+                "eventType": "Athletics Women's 3,000 metres Steeplechase"
+            },
+            {
+                "eventId": 418,
+                "eventType": "Athletics Men's Shot Put, Both Hands"
+            },
+            {
+                "eventId": 424,
+                "eventType": "Athletics Men's 10 kilometres Walk"
+            },
+            {
+                "eventId": 425,
+                "eventType": "Athletics Women's 20 kilometres Walk"
+            },
+            {
+                "eventId": 426,
+                "eventType": "Athletics Women's 80 metres Hurdles"
+            },
+            {
+                "eventId": 471,
+                "eventType": "Athletics Women's Triple Jump"
+            },
+            {
+                "eventId": 482,
+                "eventType": "Athletics Women's 10 kilometres Walk"
+            },
+            {
+                "eventId": 501,
+                "eventType": "Athletics Men's Cross-Country, Individual"
+            },
+            {
+                "eventId": 502,
+                "eventType": "Athletics Men's Cross-Country, Team"
+            },
+            {
+                "eventId": 518,
+                "eventType": "Athletics Men's 3,000 metres, Team"
+            },
+            {
+                "eventId": 555,
+                "eventType": "Athletics Men's Pentathlon"
+            },
+            {
+                "eventId": 570,
+                "eventType": "Athletics Men's 3,000 metres Walk"
+            },
+            {
+                "eventId": 587,
+                "eventType": "Athletics Men's 5 mile"
+            },
+            {
+                "eventId": 615,
+                "eventType": "Athletics Women's Hammer Throw"
+            },
+            {
+                "eventId": 625,
+                "eventType": "Athletics Men's 3,200 metres Steeplechase"
+            },
+            {
+                "eventId": 636,
+                "eventType": "Athletics Men's Standing Triple Jump"
+            },
+            {
+                "eventId": 645,
+                "eventType": "Athletics Men's 4,000 metres Steeplechase"
+            },
+            {
+                "eventId": 646,
+                "eventType": "Athletics Men's 5,000 metres, Team"
+            },
+            {
+                "eventId": 664,
+                "eventType": "Athletics Men's 1,600 metres Medley Relay"
+            },
+            {
+                "eventId": 667,
+                "eventType": "Athletics Men's 60 metres"
+            },
+            {
+                "eventId": 679,
+                "eventType": "Athletics Men's 1,500 metres Walk"
+            },
+            {
+                "eventId": 680,
+                "eventType": "Athletics Men's 3 mile, Team"
+            },
+            {
+                "eventId": 690,
+                "eventType": "Athletics Men's 3,500 metres Walk"
+            },
+            {
+                "eventId": 699,
+                "eventType": "Athletics Men's 10 mile Walk"
+            },
+            {
+                "eventId": 700,
+                "eventType": "Athletics Men's Discus Throw, Both Hands"
+            },
+            {
+                "eventId": 713,
+                "eventType": "Athletics Men's 200 metres Hurdles"
+            },
+            {
+                "eventId": 714,
+                "eventType": "Athletics Men's 56-pound Weight Throw"
+            },
+            {
+                "eventId": 716,
+                "eventType": "Athletics Men's 2,500 metres Steeplechase"
+            },
+            {
+                "eventId": 718,
+                "eventType": "Athletics Men's All-Around Championship"
+            },
+            {
+                "eventId": 723,
+                "eventType": "Athletics Men's 2,590 metres Steeplechase"
+            },
+            {
+                "eventId": 725,
+                "eventType": "Athletics Men's 4 mile, Team"
+            }
+        ]
+    },
+    {
+        "sportId": 8,
+        "sportsType": "Ice Hockey",
+        "events": [
+            {
+                "eventId": 14,
+                "eventType": "Ice Hockey Men's Ice Hockey"
+            },
+            {
+                "eventId": 303,
+                "eventType": "Ice Hockey Women's Ice Hockey"
+            }
+        ]
+    },
+    {
+        "sportId": 9,
+        "sportsType": "Swimming",
+        "events": [
+            {
+                "eventId": 15,
+                "eventType": "Swimming Men's 400 metres Freestyle"
+            },
+            {
+                "eventId": 19,
+                "eventType": "Swimming Men's 200 metres Breaststroke"
+            },
+            {
+                "eventId": 20,
+                "eventType": "Swimming Men's 400 metres Breaststroke"
+            },
+            {
+                "eventId": 52,
+                "eventType": "Swimming Men's 100 metres Butterfly"
+            },
+            {
+                "eventId": 53,
+                "eventType": "Swimming Men's 200 metres Butterfly"
+            },
+            {
+                "eventId": 54,
+                "eventType": "Swimming Men's 4 x 100 metres Medley Relay"
+            },
+            {
+                "eventId": 107,
+                "eventType": "Swimming Men's 100 metres Freestyle"
+            },
+            {
+                "eventId": 108,
+                "eventType": "Swimming Men's 4 x 200 metres Freestyle Relay"
+            },
+            {
+                "eventId": 123,
+                "eventType": "Swimming Men's 50 metres Freestyle"
+            },
+            {
+                "eventId": 150,
+                "eventType": "Swimming Men's 100 metres Backstroke"
+            },
+            {
+                "eventId": 169,
+                "eventType": "Swimming Women's 100 metres Backstroke"
+            },
+            {
+                "eventId": 170,
+                "eventType": "Swimming Women's 200 metres Backstroke"
+            },
+            {
+                "eventId": 171,
+                "eventType": "Swimming Women's 4 x 100 metres Medley Relay"
+            },
+            {
+                "eventId": 179,
+                "eventType": "Swimming Women's 50 metres Freestyle"
+            },
+            {
+                "eventId": 185,
+                "eventType": "Swimming Men's 200 metres Freestyle"
+            },
+            {
+                "eventId": 186,
+                "eventType": "Swimming Men's 4 x 100 metres Freestyle Relay"
+            },
+            {
+                "eventId": 187,
+                "eventType": "Swimming Men's 200 metres Backstroke"
+            },
+            {
+                "eventId": 188,
+                "eventType": "Swimming Men's 200 metres Individual Medley"
+            },
+            {
+                "eventId": 189,
+                "eventType": "Swimming Men's 400 metres Individual Medley"
+            },
+            {
+                "eventId": 231,
+                "eventType": "Swimming Women's 4 x 100 metres Freestyle Relay"
+            },
+            {
+                "eventId": 292,
+                "eventType": "Swimming Men's 1,500 metres Freestyle"
+            },
+            {
+                "eventId": 294,
+                "eventType": "Swimming Women's 100 metres Freestyle"
+            },
+            {
+                "eventId": 314,
+                "eventType": "Swimming Women's 200 metres Butterfly"
+            },
+            {
+                "eventId": 315,
+                "eventType": "Swimming Women's 400 metres Individual Medley"
+            },
+            {
+                "eventId": 320,
+                "eventType": "Swimming Men's 220 yard Freestyle"
+            },
+            {
+                "eventId": 321,
+                "eventType": "Swimming Men's 880 yard Freestyle"
+            },
+            {
+                "eventId": 322,
+                "eventType": "Swimming Men's One Mile Freestyle"
+            },
+            {
+                "eventId": 323,
+                "eventType": "Swimming Men's 4 x 50 Yard Freestyle Relay"
+            },
+            {
+                "eventId": 324,
+                "eventType": "Swimming Men's Plunge For Distance"
+            },
+            {
+                "eventId": 349,
+                "eventType": "Swimming Women's 200 metres Freestyle"
+            },
+            {
+                "eventId": 350,
+                "eventType": "Swimming Women's 400 metres Freestyle"
+            },
+            {
+                "eventId": 351,
+                "eventType": "Swimming Women's 200 metres Individual Medley"
+            },
+            {
+                "eventId": 368,
+                "eventType": "Swimming Women's 800 metres Freestyle"
+            },
+            {
+                "eventId": 387,
+                "eventType": "Swimming Men's 100 metres Breaststroke"
+            },
+            {
+                "eventId": 408,
+                "eventType": "Swimming Women's 100 metres Breaststroke"
+            },
+            {
+                "eventId": 409,
+                "eventType": "Swimming Women's 200 metres Breaststroke"
+            },
+            {
+                "eventId": 415,
+                "eventType": "Swimming Women's 100 metres Butterfly"
+            },
+            {
+                "eventId": 423,
+                "eventType": "Swimming Women's 4 x 200 metres Freestyle Relay"
+            },
+            {
+                "eventId": 534,
+                "eventType": "Swimming Men's 4,000 metres Freestyle"
+            },
+            {
+                "eventId": 535,
+                "eventType": "Swimming Men's Underwater Swimming"
+            },
+            {
+                "eventId": 541,
+                "eventType": "Swimming Women's 10 kilometres Open Water"
+            },
+            {
+                "eventId": 556,
+                "eventType": "Swimming Men's 1,200 metres Freestyle"
+            },
+            {
+                "eventId": 607,
+                "eventType": "Swimming Men's 10 kilometres Open Water"
+            },
+            {
+                "eventId": 612,
+                "eventType": "Swimming Men's 4 x 250 metres Freestyle Relay"
+            },
+            {
+                "eventId": 641,
+                "eventType": "Swimming Women's 300 metres Freestyle"
+            },
+            {
+                "eventId": 652,
+                "eventType": "Swimming Men's 200 metres Obstacle Course"
+            },
+            {
+                "eventId": 653,
+                "eventType": "Swimming Men's 200 metres Team Swimming"
+            },
+            {
+                "eventId": 686,
+                "eventType": "Swimming Men's 100 Yard Backstroke"
+            },
+            {
+                "eventId": 687,
+                "eventType": "Swimming Men's 440 Yard Breaststroke"
+            },
+            {
+                "eventId": 698,
+                "eventType": "Swimming Men's 1,000 metres Freestyle"
+            },
+            {
+                "eventId": 728,
+                "eventType": "Swimming Men's 50 yard Freestyle"
+            },
+            {
+                "eventId": 729,
+                "eventType": "Swimming Men's 100 yard Freestyle"
+            },
+            {
+                "eventId": 730,
+                "eventType": "Swimming Men's 440 yard Freestyle"
+            },
+            {
+                "eventId": 738,
+                "eventType": "Swimming Men's 100 metres Freestyle For Sailors"
+            },
+            {
+                "eventId": 760,
+                "eventType": "Swimming Men's 500 metres Freestyle"
+            }
+        ]
+    },
+    {
+        "sportId": 10,
+        "sportsType": "Badminton",
+        "events": [
+            {
+                "eventId": 16,
+                "eventType": "Badminton Men's Singles"
+            },
+            {
+                "eventId": 190,
+                "eventType": "Badminton Women's Singles"
+            },
+            {
+                "eventId": 342,
+                "eventType": "Badminton Mixed Doubles"
+            },
+            {
+                "eventId": 422,
+                "eventType": "Badminton Men's Doubles"
+            },
+            {
+                "eventId": 464,
+                "eventType": "Badminton Women's Doubles"
+            }
+        ]
+    },
+    {
+        "sportId": 11,
+        "sportsType": "Sailing",
+        "events": [
+            {
+                "eventId": 17,
+                "eventType": "Sailing Women's Windsurfer"
+            },
+            {
+                "eventId": 44,
+                "eventType": "Sailing Mixed Three Person Keelboat"
+            },
+            {
+                "eventId": 49,
+                "eventType": "Sailing Men's Two Person Dinghy"
+            },
+            {
+                "eventId": 61,
+                "eventType": "Sailing Mixed 8 metres"
+            },
+            {
+                "eventId": 96,
+                "eventType": "Sailing Mixed Two Person Heavyweight Dinghy"
+            },
+            {
+                "eventId": 131,
+                "eventType": "Sailing Women's Three Person Keelboat"
+            },
+            {
+                "eventId": 222,
+                "eventType": "Sailing Mixed 7 metres"
+            },
+            {
+                "eventId": 304,
+                "eventType": "Sailing Men's One Person Dinghy"
+            },
+            {
+                "eventId": 334,
+                "eventType": "Sailing Mixed 6 metres"
+            },
+            {
+                "eventId": 340,
+                "eventType": "Sailing Mixed One Person Dinghy"
+            },
+            {
+                "eventId": 344,
+                "eventType": "Sailing Mixed Two Person Keelboat"
+            },
+            {
+                "eventId": 352,
+                "eventType": "Sailing Men's Windsurfer"
+            },
+            {
+                "eventId": 369,
+                "eventType": "Sailing Women's Two Person Dinghy"
+            },
+            {
+                "eventId": 390,
+                "eventType": "Sailing Women's Skiff"
+            },
+            {
+                "eventId": 393,
+                "eventType": "Sailing Women's One Person Dinghy"
+            },
+            {
+                "eventId": 402,
+                "eventType": "Sailing Mixed 5.5 metres"
+            },
+            {
+                "eventId": 427,
+                "eventType": "Sailing Men's One Person Heavyweight Dinghy"
+            },
+            {
+                "eventId": 449,
+                "eventType": "Sailing Mixed Windsurfer"
+            },
+            {
+                "eventId": 458,
+                "eventType": "Sailing Mixed Open"
+            },
+            {
+                "eventId": 459,
+                "eventType": "Sailing Mixed 1-2 Ton"
+            },
+            {
+                "eventId": 463,
+                "eventType": "Sailing Mixed Multihull"
+            },
+            {
+                "eventId": 483,
+                "eventType": "Sailing Mixed 12 metres"
+            },
+            {
+                "eventId": 488,
+                "eventType": "Sailing Mixed Two Person Dinghy"
+            },
+            {
+                "eventId": 503,
+                "eventType": "Sailing Mixed 40 metres"
+            },
+            {
+                "eventId": 536,
+                "eventType": "Sailing Mixed Skiff"
+            },
+            {
+                "eventId": 554,
+                "eventType": "Sailing Men's Skiff"
+            },
+            {
+                "eventId": 580,
+                "eventType": "Sailing Mixed 10 metres"
+            },
+            {
+                "eventId": 584,
+                "eventType": "Sailing Men's Two Person Keelboat"
+            },
+            {
+                "eventId": 599,
+                "eventType": "Sailing Mixed 0.5-1 Ton"
+            },
+            {
+                "eventId": 644,
+                "eventType": "Sailing Mixed 30 metres"
+            },
+            {
+                "eventId": 654,
+                "eventType": "Sailing Mixed 12 foot"
+            },
+            {
+                "eventId": 659,
+                "eventType": "Sailing Mixed 10-20 Ton"
+            },
+            {
+                "eventId": 669,
+                "eventType": "Sailing Mixed 2-3 Ton"
+            },
+            {
+                "eventId": 702,
+                "eventType": "Sailing Mixed 0-0.5 Ton"
+            },
+            {
+                "eventId": 703,
+                "eventType": "Sailing Mixed 20+ Ton"
+            },
+            {
+                "eventId": 712,
+                "eventType": "Sailing Mixed 6.5 metres"
+            },
+            {
+                "eventId": 740,
+                "eventType": "Sailing Mixed 3-10 Ton"
+            },
+            {
+                "eventId": 753,
+                "eventType": "Sailing Mixed 18 foot"
+            }
+        ]
+    },
+    {
+        "sportId": 12,
+        "sportsType": "Biathlon",
+        "events": [
+            {
+                "eventId": 18,
+                "eventType": "Biathlon Women's 7.5 kilometres Sprint"
+            },
+            {
+                "eventId": 225,
+                "eventType": "Biathlon Men's 10 kilometres Sprint"
+            },
+            {
+                "eventId": 226,
+                "eventType": "Biathlon Men's 20 kilometres"
+            },
+            {
+                "eventId": 227,
+                "eventType": "Biathlon Men's 4 x 7.5 kilometres Relay"
+            },
+            {
+                "eventId": 259,
+                "eventType": "Biathlon Men's 12.5 kilometres Pursuit"
+            },
+            {
+                "eventId": 260,
+                "eventType": "Biathlon Mixed 2 x 6 kilometres and 2 x 7.5 kilometres Relay"
+            },
+            {
+                "eventId": 309,
+                "eventType": "Biathlon Women's 15 kilometres"
+            },
+            {
+                "eventId": 310,
+                "eventType": "Biathlon Women's 3 x 7.5 kilometres Relay"
+            },
+            {
+                "eventId": 311,
+                "eventType": "Biathlon Women's 4 x 7.5 kilometres Relay"
+            },
+            {
+                "eventId": 442,
+                "eventType": "Biathlon Women's 10 kilometres Pursuit"
+            },
+            {
+                "eventId": 443,
+                "eventType": "Biathlon Women's 12.5 kilometres Mass Start"
+            },
+            {
+                "eventId": 444,
+                "eventType": "Biathlon Women's 4 x 6 kilometres Relay"
+            },
+            {
+                "eventId": 558,
+                "eventType": "Biathlon Men's 15 kilometres Mass Start"
+            }
+        ]
+    },
+    {
+        "sportId": 13,
+        "sportsType": "Gymnastics",
+        "events": [
+            {
+                "eventId": 21,
+                "eventType": "Gymnastics Men's Individual All-Around"
+            },
+            {
+                "eventId": 22,
+                "eventType": "Gymnastics Men's Team All-Around"
+            },
+            {
+                "eventId": 23,
+                "eventType": "Gymnastics Men's Floor Exercise"
+            },
+            {
+                "eventId": 24,
+                "eventType": "Gymnastics Men's Horse Vault"
+            },
+            {
+                "eventId": 25,
+                "eventType": "Gymnastics Men's Parallel Bars"
+            },
+            {
+                "eventId": 26,
+                "eventType": "Gymnastics Men's Horizontal Bar"
+            },
+            {
+                "eventId": 27,
+                "eventType": "Gymnastics Men's Rings"
+            },
+            {
+                "eventId": 28,
+                "eventType": "Gymnastics Men's Pommelled Horse"
+            },
+            {
+                "eventId": 41,
+                "eventType": "Gymnastics Men's Team All-Around, Free System"
+            },
+            {
+                "eventId": 213,
+                "eventType": "Gymnastics Women's Individual All-Around"
+            },
+            {
+                "eventId": 214,
+                "eventType": "Gymnastics Women's Team All-Around"
+            },
+            {
+                "eventId": 215,
+                "eventType": "Gymnastics Women's Floor Exercise"
+            },
+            {
+                "eventId": 216,
+                "eventType": "Gymnastics Women's Horse Vault"
+            },
+            {
+                "eventId": 217,
+                "eventType": "Gymnastics Women's Uneven Bars"
+            },
+            {
+                "eventId": 218,
+                "eventType": "Gymnastics Women's Balance Beam"
+            },
+            {
+                "eventId": 276,
+                "eventType": "Gymnastics Women's Team Portable Apparatus"
+            },
+            {
+                "eventId": 286,
+                "eventType": "Gymnastics Men's Team All-Around, Swedish System"
+            },
+            {
+                "eventId": 440,
+                "eventType": "Gymnastics Men's Individual All-Around, 5 Events"
+            },
+            {
+                "eventId": 487,
+                "eventType": "Gymnastics Men's Rope Climbing"
+            },
+            {
+                "eventId": 508,
+                "eventType": "Gymnastics Men's Club Swinging"
+            },
+            {
+                "eventId": 530,
+                "eventType": "Gymnastics Men's Individual All-Around, Field Sports"
+            },
+            {
+                "eventId": 531,
+                "eventType": "Gymnastics Men's Individual All-Around, Apparatus Work"
+            },
+            {
+                "eventId": 675,
+                "eventType": "Gymnastics Men's Parallel Bars, Teams"
+            },
+            {
+                "eventId": 676,
+                "eventType": "Gymnastics Men's Horizontal Bar, Teams"
+            },
+            {
+                "eventId": 692,
+                "eventType": "Gymnastics Men's Side Horse"
+            },
+            {
+                "eventId": 741,
+                "eventType": "Gymnastics Men's Individual All-Around, 4 Events"
+            },
+            {
+                "eventId": 751,
+                "eventType": "Gymnastics Men's Tumbling"
+            }
+        ]
+    },
+    {
+        "sportId": 14,
+        "sportsType": "Art Competitions",
+        "events": [
+            {
+                "eventId": 30,
+                "eventType": "Art Competitions Mixed Sculpturing, Unknown Event"
+            },
+            {
+                "eventId": 211,
+                "eventType": "Art Competitions Mixed Architecture, Designs For Town Planning"
+            },
+            {
+                "eventId": 212,
+                "eventType": "Art Competitions Mixed Architecture, Architectural Designs"
+            },
+            {
+                "eventId": 282,
+                "eventType": "Art Competitions Mixed Painting"
+            },
+            {
+                "eventId": 289,
+                "eventType": "Art Competitions Mixed Painting, Unknown Event"
+            },
+            {
+                "eventId": 307,
+                "eventType": "Art Competitions Mixed Literature"
+            },
+            {
+                "eventId": 429,
+                "eventType": "Art Competitions Mixed Painting, Paintings"
+            },
+            {
+                "eventId": 432,
+                "eventType": "Art Competitions Mixed Sculpturing, Statues"
+            },
+            {
+                "eventId": 474,
+                "eventType": "Art Competitions Mixed Painting, Drawings And Water Colors"
+            },
+            {
+                "eventId": 489,
+                "eventType": "Art Competitions Mixed Architecture, Unknown Event"
+            },
+            {
+                "eventId": 500,
+                "eventType": "Art Competitions Mixed Sculpturing"
+            },
+            {
+                "eventId": 532,
+                "eventType": "Art Competitions Mixed Music, Compositions For Solo Or Chorus"
+            },
+            {
+                "eventId": 592,
+                "eventType": "Art Competitions Mixed Literature, Lyric Works"
+            },
+            {
+                "eventId": 596,
+                "eventType": "Art Competitions Mixed Painting, Graphic Arts"
+            },
+            {
+                "eventId": 598,
+                "eventType": "Art Competitions Mixed Literature, Unknown Event"
+            },
+            {
+                "eventId": 600,
+                "eventType": "Art Competitions Mixed Painting, Applied Arts"
+            },
+            {
+                "eventId": 608,
+                "eventType": "Art Competitions Mixed Music, Compositions For Orchestra"
+            },
+            {
+                "eventId": 620,
+                "eventType": "Art Competitions Mixed Music"
+            },
+            {
+                "eventId": 649,
+                "eventType": "Art Competitions Mixed Unknown Event"
+            },
+            {
+                "eventId": 655,
+                "eventType": "Art Competitions Mixed Music, Instrumental And Chamber"
+            },
+            {
+                "eventId": 656,
+                "eventType": "Art Competitions Mixed Music, Vocals"
+            },
+            {
+                "eventId": 657,
+                "eventType": "Art Competitions Mixed Literature, Dramatic Works"
+            },
+            {
+                "eventId": 663,
+                "eventType": "Art Competitions Mixed Sculpturing, Medals And Plaques"
+            },
+            {
+                "eventId": 678,
+                "eventType": "Art Competitions Mixed Sculpturing, Medals And Reliefs"
+            },
+            {
+                "eventId": 681,
+                "eventType": "Art Competitions Mixed Sculpturing, Medals"
+            },
+            {
+                "eventId": 688,
+                "eventType": "Art Competitions Mixed Literature, Epic Works"
+            },
+            {
+                "eventId": 689,
+                "eventType": "Art Competitions Mixed Architecture"
+            },
+            {
+                "eventId": 717,
+                "eventType": "Art Competitions Mixed Music, Unknown Event"
+            },
+            {
+                "eventId": 746,
+                "eventType": "Art Competitions Mixed Sculpturing, Reliefs"
+            }
+        ]
+    },
+    {
+        "sportId": 15,
+        "sportsType": "Alpine Skiing",
+        "events": [
+            {
+                "eventId": 31,
+                "eventType": "Alpine Skiing Men's Downhill"
+            },
+            {
+                "eventId": 32,
+                "eventType": "Alpine Skiing Men's Super G"
+            },
+            {
+                "eventId": 33,
+                "eventType": "Alpine Skiing Men's Giant Slalom"
+            },
+            {
+                "eventId": 34,
+                "eventType": "Alpine Skiing Men's Slalom"
+            },
+            {
+                "eventId": 35,
+                "eventType": "Alpine Skiing Men's Combined"
+            },
+            {
+                "eventId": 121,
+                "eventType": "Alpine Skiing Women's Slalom"
+            },
+            {
+                "eventId": 247,
+                "eventType": "Alpine Skiing Women's Giant Slalom"
+            },
+            {
+                "eventId": 248,
+                "eventType": "Alpine Skiing Women's Super G"
+            },
+            {
+                "eventId": 299,
+                "eventType": "Alpine Skiing Women's Combined"
+            },
+            {
+                "eventId": 370,
+                "eventType": "Alpine Skiing Women's Downhill"
+            }
+        ]
+    },
+    {
+        "sportId": 16,
+        "sportsType": "Handball",
+        "events": [
+            {
+                "eventId": 36,
+                "eventType": "Handball Women's Handball"
+            },
+            {
+                "eventId": 88,
+                "eventType": "Handball Men's Handball"
+            }
+        ]
+    },
+    {
+        "sportId": 17,
+        "sportsType": "Weightlifting",
+        "events": [
+            {
+                "eventId": 37,
+                "eventType": "Weightlifting Women's Super-Heavyweight"
+            },
+            {
+                "eventId": 77,
+                "eventType": "Weightlifting Men's Lightweight"
+            },
+            {
+                "eventId": 78,
+                "eventType": "Weightlifting Men's Middleweight"
+            },
+            {
+                "eventId": 118,
+                "eventType": "Weightlifting Men's Featherweight"
+            },
+            {
+                "eventId": 124,
+                "eventType": "Weightlifting Women's Featherweight"
+            },
+            {
+                "eventId": 127,
+                "eventType": "Weightlifting Men's Heavyweight"
+            },
+            {
+                "eventId": 149,
+                "eventType": "Weightlifting Men's Flyweight"
+            },
+            {
+                "eventId": 151,
+                "eventType": "Weightlifting Men's Light-Heavyweight"
+            },
+            {
+                "eventId": 162,
+                "eventType": "Weightlifting Men's Middle-Heavyweight"
+            },
+            {
+                "eventId": 182,
+                "eventType": "Weightlifting Women's Lightweight"
+            },
+            {
+                "eventId": 196,
+                "eventType": "Weightlifting Women's Light-Heavyweight"
+            },
+            {
+                "eventId": 197,
+                "eventType": "Weightlifting Women's Heavyweight"
+            },
+            {
+                "eventId": 291,
+                "eventType": "Weightlifting Women's Middleweight"
+            },
+            {
+                "eventId": 398,
+                "eventType": "Weightlifting Men's Super-Heavyweight"
+            },
+            {
+                "eventId": 407,
+                "eventType": "Weightlifting Women's Flyweight"
+            },
+            {
+                "eventId": 416,
+                "eventType": "Weightlifting Men's Heavyweight I"
+            },
+            {
+                "eventId": 434,
+                "eventType": "Weightlifting Men's Heavyweight II"
+            },
+            {
+                "eventId": 447,
+                "eventType": "Weightlifting Men's Bantamweight"
+            },
+            {
+                "eventId": 526,
+                "eventType": "Weightlifting Men's Unlimited, One Hand"
+            },
+            {
+                "eventId": 705,
+                "eventType": "Weightlifting Men's Unlimited, Two Hands"
+            },
+            {
+                "eventId": 761,
+                "eventType": "Weightlifting Men's All-Around Dumbbell Contest"
+            }
+        ]
+    },
+    {
+        "sportId": 18,
+        "sportsType": "Wrestling",
+        "events": [
+            {
+                "eventId": 38,
+                "eventType": "Wrestling Men's Light-Heavyweight, Greco-Roman"
+            },
+            {
+                "eventId": 71,
+                "eventType": "Wrestling Men's Heavyweight, Freestyle"
+            },
+            {
+                "eventId": 95,
+                "eventType": "Wrestling Men's Featherweight, Freestyle"
+            },
+            {
+                "eventId": 136,
+                "eventType": "Wrestling Men's Heavyweight, Greco-Roman"
+            },
+            {
+                "eventId": 152,
+                "eventType": "Wrestling Men's Lightweight, Greco-Roman"
+            },
+            {
+                "eventId": 154,
+                "eventType": "Wrestling Men's Super-Heavyweight, Greco-Roman"
+            },
+            {
+                "eventId": 160,
+                "eventType": "Wrestling Men's Flyweight, Greco-Roman"
+            },
+            {
+                "eventId": 165,
+                "eventType": "Wrestling Men's Welterweight, Greco-Roman"
+            },
+            {
+                "eventId": 166,
+                "eventType": "Wrestling Men's Middleweight, Greco-Roman"
+            },
+            {
+                "eventId": 168,
+                "eventType": "Wrestling Men's Middleweight, Freestyle"
+            },
+            {
+                "eventId": 172,
+                "eventType": "Wrestling Men's Light-Heavyweight, Freestyle"
+            },
+            {
+                "eventId": 193,
+                "eventType": "Wrestling Men's Bantamweight, Freestyle"
+            },
+            {
+                "eventId": 194,
+                "eventType": "Wrestling Men's Flyweight, Freestyle"
+            },
+            {
+                "eventId": 204,
+                "eventType": "Wrestling Men's Lightweight, Freestyle"
+            },
+            {
+                "eventId": 229,
+                "eventType": "Wrestling Men's Middleweight A, Greco-Roman"
+            },
+            {
+                "eventId": 254,
+                "eventType": "Wrestling Men's Welterweight, Freestyle"
+            },
+            {
+                "eventId": 255,
+                "eventType": "Wrestling Men's Bantamweight, Greco-Roman"
+            },
+            {
+                "eventId": 280,
+                "eventType": "Wrestling Men's Featherweight, Greco-Roman"
+            },
+            {
+                "eventId": 293,
+                "eventType": "Wrestling Women's Light-Heavyweight, Freestyle"
+            },
+            {
+                "eventId": 341,
+                "eventType": "Wrestling Women's Heavyweight, Freestyle"
+            },
+            {
+                "eventId": 347,
+                "eventType": "Wrestling Men's Light-Flyweight, Freestyle"
+            },
+            {
+                "eventId": 348,
+                "eventType": "Wrestling Women's Featherweight, Freestyle"
+            },
+            {
+                "eventId": 357,
+                "eventType": "Wrestling Women's Lightweight, Freestyle"
+            },
+            {
+                "eventId": 400,
+                "eventType": "Wrestling Men's Light-Flyweight, Greco-Roman"
+            },
+            {
+                "eventId": 410,
+                "eventType": "Wrestling Men's Middleweight B, Greco-Roman"
+            },
+            {
+                "eventId": 441,
+                "eventType": "Wrestling Men's Super-Heavyweight, Freestyle"
+            },
+            {
+                "eventId": 597,
+                "eventType": "Wrestling Women's Flyweight, Freestyle"
+            },
+            {
+                "eventId": 610,
+                "eventType": "Wrestling Women's Middleweight, Freestyle"
+            },
+            {
+                "eventId": 742,
+                "eventType": "Wrestling Men's Unlimited Class, Greco-Roman"
+            },
+            {
+                "eventId": 758,
+                "eventType": "Wrestling Men's All-Around, Greco-Roman"
+            }
+        ]
+    },
+    {
+        "sportId": 19,
+        "sportsType": "Luge",
+        "events": [
+            {
+                "eventId": 42,
+                "eventType": "Luge Women's Singles"
+            },
+            {
+                "eventId": 461,
+                "eventType": "Luge Men's Singles"
+            },
+            {
+                "eventId": 462,
+                "eventType": "Luge Mixed (Men)'s Doubles"
+            },
+            {
+                "eventId": 573,
+                "eventType": "Luge Mixed Team Relay"
+            }
+        ]
+    },
+    {
+        "sportId": 20,
+        "sportsType": "Water Polo",
+        "events": [
+            {
+                "eventId": 43,
+                "eventType": "Water Polo Men's Water Polo"
+            },
+            {
+                "eventId": 125,
+                "eventType": "Water Polo Women's Water Polo"
+            }
+        ]
+    },
+    {
+        "sportId": 21,
+        "sportsType": "Hockey",
+        "events": [
+            {
+                "eventId": 45,
+                "eventType": "Hockey Women's Hockey"
+            },
+            {
+                "eventId": 120,
+                "eventType": "Hockey Men's Hockey"
+            }
+        ]
+    },
+    {
+        "sportId": 22,
+        "sportsType": "Rowing",
+        "events": [
+            {
+                "eventId": 46,
+                "eventType": "Rowing Men's Lightweight Double Sculls"
+            },
+            {
+                "eventId": 79,
+                "eventType": "Rowing Men's Coxless Pairs"
+            },
+            {
+                "eventId": 89,
+                "eventType": "Rowing Women's Coxless Pairs"
+            },
+            {
+                "eventId": 98,
+                "eventType": "Rowing Men's Coxed Eights"
+            },
+            {
+                "eventId": 112,
+                "eventType": "Rowing Men's Quadruple Sculls"
+            },
+            {
+                "eventId": 113,
+                "eventType": "Rowing Men's Double Sculls"
+            },
+            {
+                "eventId": 114,
+                "eventType": "Rowing Men's Coxed Pairs"
+            },
+            {
+                "eventId": 122,
+                "eventType": "Rowing Women's Single Sculls"
+            },
+            {
+                "eventId": 157,
+                "eventType": "Rowing Men's Coxless Fours"
+            },
+            {
+                "eventId": 208,
+                "eventType": "Rowing Men's Coxed Fours"
+            },
+            {
+                "eventId": 245,
+                "eventType": "Rowing Women's Coxed Eights"
+            },
+            {
+                "eventId": 256,
+                "eventType": "Rowing Women's Lightweight Double Sculls"
+            },
+            {
+                "eventId": 258,
+                "eventType": "Rowing Women's Coxed Quadruple Sculls"
+            },
+            {
+                "eventId": 285,
+                "eventType": "Rowing Women's Quadruple Sculls"
+            },
+            {
+                "eventId": 333,
+                "eventType": "Rowing Women's Double Sculls"
+            },
+            {
+                "eventId": 378,
+                "eventType": "Rowing Men's Single Sculls"
+            },
+            {
+                "eventId": 396,
+                "eventType": "Rowing Men's 17-Man Naval Rowing Boats"
+            },
+            {
+                "eventId": 399,
+                "eventType": "Rowing Men's Lightweight Coxless Fours"
+            },
+            {
+                "eventId": 486,
+                "eventType": "Rowing Men's Coxed Fours, Outriggers"
+            },
+            {
+                "eventId": 498,
+                "eventType": "Rowing Men's Coxed Fours, Inriggers"
+            },
+            {
+                "eventId": 525,
+                "eventType": "Rowing Women's Coxed Fours"
+            },
+            {
+                "eventId": 619,
+                "eventType": "Rowing Men's 6-Man Naval Rowing Boats"
+            },
+            {
+                "eventId": 626,
+                "eventType": "Rowing Women's Coxless Fours"
+            },
+            {
+                "eventId": 637,
+                "eventType": "Rowing Men's Coxed Pairs (1 kilometres)"
+            },
+            {
+                "eventId": 648,
+                "eventType": "Rowing Men's Coxed Pairs (1 mile)"
+            }
+        ]
+    },
+    {
+        "sportId": 23,
+        "sportsType": "Bobsleigh",
+        "events": [
+            {
+                "eventId": 51,
+                "eventType": "Bobsleigh Men's Four"
+            },
+            {
+                "eventId": 203,
+                "eventType": "Bobsleigh Men's Two"
+            },
+            {
+                "eventId": 473,
+                "eventType": "Bobsleigh Men's Four/Five"
+            },
+            {
+                "eventId": 589,
+                "eventType": "Bobsleigh Women's Two"
+            }
+        ]
+    },
+    {
+        "sportId": 24,
+        "sportsType": "Fencing",
+        "events": [
+            {
+                "eventId": 56,
+                "eventType": "Fencing Men's Foil, Individual"
+            },
+            {
+                "eventId": 57,
+                "eventType": "Fencing Men's epee, Individual"
+            },
+            {
+                "eventId": 58,
+                "eventType": "Fencing Men's epee, Team"
+            },
+            {
+                "eventId": 105,
+                "eventType": "Fencing Men's Foil, Team"
+            },
+            {
+                "eventId": 106,
+                "eventType": "Fencing Men's Sabre, Team"
+            },
+            {
+                "eventId": 153,
+                "eventType": "Fencing Men's Sabre, Individual"
+            },
+            {
+                "eventId": 184,
+                "eventType": "Fencing Women's epee, Individual"
+            },
+            {
+                "eventId": 313,
+                "eventType": "Fencing Women's Foil, Team"
+            },
+            {
+                "eventId": 343,
+                "eventType": "Fencing Women's Foil, Individual"
+            },
+            {
+                "eventId": 445,
+                "eventType": "Fencing Women's Sabre, Team"
+            },
+            {
+                "eventId": 479,
+                "eventType": "Fencing Men's Sabre, Masters, Individual"
+            },
+            {
+                "eventId": 528,
+                "eventType": "Fencing Men's Foil, Masters, Individual"
+            },
+            {
+                "eventId": 529,
+                "eventType": "Fencing Men's epee, Masters, Individual"
+            },
+            {
+                "eventId": 533,
+                "eventType": "Fencing Women's epee, Team"
+            },
+            {
+                "eventId": 575,
+                "eventType": "Fencing Women's Sabre, Individual"
+            },
+            {
+                "eventId": 576,
+                "eventType": "Fencing Men's Sabre, Individual, Three Hits"
+            },
+            {
+                "eventId": 606,
+                "eventType": "Fencing Men's epee, Masters and Amateurs, Individual"
+            },
+            {
+                "eventId": 750,
+                "eventType": "Fencing Men's Single Sticks, Individual"
+            }
+        ]
+    },
+    {
+        "sportId": 25,
+        "sportsType": "Equestrianism",
+        "events": [
+            {
+                "eventId": 62,
+                "eventType": "Equestrianism Mixed Jumping, Individual"
+            },
+            {
+                "eventId": 128,
+                "eventType": "Equestrianism Mixed Three-Day Event, Individual"
+            },
+            {
+                "eventId": 129,
+                "eventType": "Equestrianism Mixed Three-Day Event, Team"
+            },
+            {
+                "eventId": 295,
+                "eventType": "Equestrianism Men's Jumping, Individual"
+            },
+            {
+                "eventId": 296,
+                "eventType": "Equestrianism Men's Jumping, Team"
+            },
+            {
+                "eventId": 297,
+                "eventType": "Equestrianism Men's Three-Day Event, Individual"
+            },
+            {
+                "eventId": 298,
+                "eventType": "Equestrianism Men's Three-Day Event, Team"
+            },
+            {
+                "eventId": 362,
+                "eventType": "Equestrianism Men's Dressage, Individual"
+            },
+            {
+                "eventId": 363,
+                "eventType": "Equestrianism Men's Dressage, Team"
+            },
+            {
+                "eventId": 384,
+                "eventType": "Equestrianism Mixed Dressage, Individual"
+            },
+            {
+                "eventId": 385,
+                "eventType": "Equestrianism Mixed Dressage, Team"
+            },
+            {
+                "eventId": 403,
+                "eventType": "Equestrianism Mixed Jumping, Team"
+            },
+            {
+                "eventId": 579,
+                "eventType": "Equestrianism Mixed Hacks And Hunter Combined"
+            },
+            {
+                "eventId": 611,
+                "eventType": "Equestrianism Men's Vaulting, Individual"
+            },
+            {
+                "eventId": 683,
+                "eventType": "Equestrianism Men's Vaulting, Team"
+            },
+            {
+                "eventId": 715,
+                "eventType": "Equestrianism Mixed Four-In-Hand Competition"
+            },
+            {
+                "eventId": 734,
+                "eventType": "Equestrianism Mixed Long Jump"
+            },
+            {
+                "eventId": 748,
+                "eventType": "Equestrianism Mixed High Jump"
+            }
+        ]
+    },
+    {
+        "sportId": 26,
+        "sportsType": "Shooting",
+        "events": [
+            {
+                "eventId": 64,
+                "eventType": "Shooting Men's Small-Bore Rifle, Prone, 50 metres"
+            },
+            {
+                "eventId": 65,
+                "eventType": "Shooting Men's Rapid-Fire Pistol, 25 metres"
+            },
+            {
+                "eventId": 66,
+                "eventType": "Shooting Men's Trap"
+            },
+            {
+                "eventId": 94,
+                "eventType": "Shooting Mixed Skeet"
+            },
+            {
+                "eventId": 102,
+                "eventType": "Shooting Mixed Trap"
+            },
+            {
+                "eventId": 147,
+                "eventType": "Shooting Men's Air Rifle, 10 metres"
+            },
+            {
+                "eventId": 155,
+                "eventType": "Shooting Men's Free Pistol, 50 metres"
+            },
+            {
+                "eventId": 156,
+                "eventType": "Shooting Men's Air Pistol, 10 metres"
+            },
+            {
+                "eventId": 161,
+                "eventType": "Shooting Women's Air Rifle, 10 metres"
+            },
+            {
+                "eventId": 178,
+                "eventType": "Shooting Men's Skeet"
+            },
+            {
+                "eventId": 180,
+                "eventType": "Shooting Men's Small-Bore Rifle, Three Positions, 50 metres"
+            },
+            {
+                "eventId": 233,
+                "eventType": "Shooting Women's Air Pistol, 10 metres"
+            },
+            {
+                "eventId": 234,
+                "eventType": "Shooting Women's Sporting Pistol, 25 metres"
+            },
+            {
+                "eventId": 238,
+                "eventType": "Shooting Men's Running Target, 50 metres"
+            },
+            {
+                "eventId": 325,
+                "eventType": "Shooting Men's Free Rifle, Three Positions, 300 metres"
+            },
+            {
+                "eventId": 326,
+                "eventType": "Shooting Men's Military Rifle, Three Positions, 300 metres"
+            },
+            {
+                "eventId": 327,
+                "eventType": "Shooting Men's Military Rifle, Any Position, 600 metres"
+            },
+            {
+                "eventId": 328,
+                "eventType": "Shooting Men's Military Rifle, 200, 400, 500 and 600 metres, Team"
+            },
+            {
+                "eventId": 329,
+                "eventType": "Shooting Men's Military Rifle, Prone, 300 metres"
+            },
+            {
+                "eventId": 345,
+                "eventType": "Shooting Men's Military Rifle, 300 metres and 600 metres, Prone, Team"
+            },
+            {
+                "eventId": 354,
+                "eventType": "Shooting Men's Running Target, Single Shot"
+            },
+            {
+                "eventId": 355,
+                "eventType": "Shooting Men's Running Target, Double Shot"
+            },
+            {
+                "eventId": 366,
+                "eventType": "Shooting Mixed Small-Bore Rifle, Three Positions, 50 metres"
+            },
+            {
+                "eventId": 367,
+                "eventType": "Shooting Mixed Small-Bore Rifle, Prone, 50 metres"
+            },
+            {
+                "eventId": 371,
+                "eventType": "Shooting Men's Free Pistol, 50 metres, Team"
+            },
+            {
+                "eventId": 372,
+                "eventType": "Shooting Men's Free Rifle, Three Positions, 300 metres, Team"
+            },
+            {
+                "eventId": 373,
+                "eventType": "Shooting Men's Military Rifle, Prone, 300 metres, Team"
+            },
+            {
+                "eventId": 374,
+                "eventType": "Shooting Men's Military Rifle, Prone, 600 metres, Team"
+            },
+            {
+                "eventId": 375,
+                "eventType": "Shooting Men's Military Rifle, Standing, 300 metres, Team"
+            },
+            {
+                "eventId": 376,
+                "eventType": "Shooting Men's Free Rifle, Prone, 600 metres"
+            },
+            {
+                "eventId": 377,
+                "eventType": "Shooting Men's Free Rifle, 400, 600 and 800 metres, Team"
+            },
+            {
+                "eventId": 389,
+                "eventType": "Shooting Mixed Free Pistol, 50 metres"
+            },
+            {
+                "eventId": 414,
+                "eventType": "Shooting Women's Small-Bore Rifle, Three Positions, 50 metres"
+            },
+            {
+                "eventId": 421,
+                "eventType": "Shooting Women's Trap"
+            },
+            {
+                "eventId": 446,
+                "eventType": "Shooting Men's Double Trap"
+            },
+            {
+                "eventId": 451,
+                "eventType": "Shooting Mixed Free Rifle, Three Positions, 300 metres"
+            },
+            {
+                "eventId": 454,
+                "eventType": "Shooting Mixed Rapid-Fire Pistol, 25 metres"
+            },
+            {
+                "eventId": 475,
+                "eventType": "Shooting Men's Dueling Pistol, 30 metres"
+            },
+            {
+                "eventId": 496,
+                "eventType": "Shooting Men's Running Target, 10 metres"
+            },
+            {
+                "eventId": 520,
+                "eventType": "Shooting Men's Small-Bore Rifle, Prone, 50 and 100 yards"
+            },
+            {
+                "eventId": 521,
+                "eventType": "Shooting Men's Small-Bore Rifle, 50 and 100 yards, Team"
+            },
+            {
+                "eventId": 522,
+                "eventType": "Shooting Men's Small-Bore Rifle, Disappearing Target, 25 yards"
+            },
+            {
+                "eventId": 523,
+                "eventType": "Shooting Men's Small-Bore Rifle, Moving Target, 25 yards"
+            },
+            {
+                "eventId": 524,
+                "eventType": "Shooting Men's Military Pistol, Team"
+            },
+            {
+                "eventId": 537,
+                "eventType": "Shooting Men's Military Rifle, 200/500/600/800/900/1,000 Yards, Team"
+            },
+            {
+                "eventId": 538,
+                "eventType": "Shooting Men's Running Target, Single And Double Shot"
+            },
+            {
+                "eventId": 539,
+                "eventType": "Shooting Men's Small-Bore Rifle, Any Position, 50 metres"
+            },
+            {
+                "eventId": 540,
+                "eventType": "Shooting Men's Small-Bore Rifle, Disappearing Target, 25 metres"
+            },
+            {
+                "eventId": 557,
+                "eventType": "Shooting Women's Skeet"
+            },
+            {
+                "eventId": 564,
+                "eventType": "Shooting Men's Small-Bore Rifle, Standing, 50 metres"
+            },
+            {
+                "eventId": 565,
+                "eventType": "Shooting Men's Small Bore-Rifle, Standing, 50 metres, Team"
+            },
+            {
+                "eventId": 567,
+                "eventType": "Shooting Men's Free Rifle, 1,000 Yards"
+            },
+            {
+                "eventId": 572,
+                "eventType": "Shooting Mixed Running Target, 50 metres"
+            },
+            {
+                "eventId": 581,
+                "eventType": "Shooting Men's Trap, Team"
+            },
+            {
+                "eventId": 588,
+                "eventType": "Shooting Men's Running Target, Single Shot, Team"
+            },
+            {
+                "eventId": 603,
+                "eventType": "Shooting Men's Running Target, Double Shot, Team"
+            },
+            {
+                "eventId": 604,
+                "eventType": "Shooting Men's Free Pistol, 50 yards"
+            },
+            {
+                "eventId": 605,
+                "eventType": "Shooting Men's Free Pistol, 50 yards, Team"
+            },
+            {
+                "eventId": 618,
+                "eventType": "Shooting Women's Double Trap"
+            },
+            {
+                "eventId": 621,
+                "eventType": "Shooting Men's Free Rifle, Kneeling, 300 metres"
+            },
+            {
+                "eventId": 622,
+                "eventType": "Shooting Men's Free Rifle, Prone, 300 metres"
+            },
+            {
+                "eventId": 623,
+                "eventType": "Shooting Men's Free Rifle, Standing, 300 metres"
+            },
+            {
+                "eventId": 634,
+                "eventType": "Shooting Men's Military Rifle, 200 metres"
+            },
+            {
+                "eventId": 638,
+                "eventType": "Shooting Men's Military Pistol, 30 metres"
+            },
+            {
+                "eventId": 671,
+                "eventType": "Shooting Men's Military Rifle, Prone, 600 metres"
+            },
+            {
+                "eventId": 674,
+                "eventType": "Shooting Men's Dueling Pistol, 30 metres, Team"
+            },
+            {
+                "eventId": 677,
+                "eventType": "Shooting Men's Small-Bore Rifle, Disappearing Target, 25 metres, Team"
+            },
+            {
+                "eventId": 682,
+                "eventType": "Shooting Men's Military Rifle, Kneeling Or Standing, 300 metres"
+            },
+            {
+                "eventId": 684,
+                "eventType": "Shooting Men's Free Rifle, Any Position, 300 metres"
+            },
+            {
+                "eventId": 685,
+                "eventType": "Shooting Men's Military Rifle, 1873-1874 Gras Model, Kneeling Or Standing, 200 metres"
+            },
+            {
+                "eventId": 706,
+                "eventType": "Shooting Men's Free Pistol, 25 metres"
+            },
+            {
+                "eventId": 707,
+                "eventType": "Shooting Men's Military Revolver, 1873-1874 Gras Model, 20 metres"
+            },
+            {
+                "eventId": 708,
+                "eventType": "Shooting Men's Military Revolver, 20 metres"
+            },
+            {
+                "eventId": 709,
+                "eventType": "Shooting Men's Dueling Pistol Au Vise 20 metres"
+            },
+            {
+                "eventId": 710,
+                "eventType": "Shooting Men's Dueling Pistol Au Commandement, 25 metres"
+            },
+            {
+                "eventId": 711,
+                "eventType": "Shooting Men's Small-Bore Rifle, Prone, 50 metres, Team"
+            },
+            {
+                "eventId": 727,
+                "eventType": "Shooting Men's Military Rifle, Standing, 300 metres"
+            },
+            {
+                "eventId": 732,
+                "eventType": "Shooting Men's Trap, Single Shot, 16 metres"
+            },
+            {
+                "eventId": 733,
+                "eventType": "Shooting Men's Trap, Double Shot, 14 metres"
+            },
+            {
+                "eventId": 736,
+                "eventType": "Shooting Men's Free Pistol, 30 metres"
+            },
+            {
+                "eventId": 737,
+                "eventType": "Shooting Men's Military Pistol, 25 metres"
+            },
+            {
+                "eventId": 747,
+                "eventType": "Shooting Men's Muzzle-Loading Pistol, 25 metres"
+            },
+            {
+                "eventId": 752,
+                "eventType": "Shooting Men's Unknown Event"
+            }
+        ]
+    },
+    {
+        "sportId": 27,
+        "sportsType": "Boxing",
+        "events": [
+            {
+                "eventId": 69,
+                "eventType": "Boxing Men's Light-Welterweight"
+            },
+            {
+                "eventId": 73,
+                "eventType": "Boxing Men's Heavyweight"
+            },
+            {
+                "eventId": 82,
+                "eventType": "Boxing Men's Flyweight"
+            },
+            {
+                "eventId": 90,
+                "eventType": "Boxing Men's Middleweight"
+            },
+            {
+                "eventId": 92,
+                "eventType": "Boxing Men's Featherweight"
+            },
+            {
+                "eventId": 109,
+                "eventType": "Boxing Men's Lightweight"
+            },
+            {
+                "eventId": 111,
+                "eventType": "Boxing Men's Welterweight"
+            },
+            {
+                "eventId": 158,
+                "eventType": "Boxing Men's Light-Flyweight"
+            },
+            {
+                "eventId": 159,
+                "eventType": "Boxing Men's Super-Heavyweight"
+            },
+            {
+                "eventId": 174,
+                "eventType": "Boxing Men's Bantamweight"
+            },
+            {
+                "eventId": 191,
+                "eventType": "Boxing Men's Light-Middleweight"
+            },
+            {
+                "eventId": 335,
+                "eventType": "Boxing Men's Light-Heavyweight"
+            },
+            {
+                "eventId": 336,
+                "eventType": "Boxing Women's Flyweight"
+            },
+            {
+                "eventId": 476,
+                "eventType": "Boxing Women's Lightweight"
+            },
+            {
+                "eventId": 553,
+                "eventType": "Boxing Women's Middleweight"
+            }
+        ]
+    },
+    {
+        "sportId": 28,
+        "sportsType": "Taekwondo",
+        "events": [
+            {
+                "eventId": 72,
+                "eventType": "Taekwondo Men's Flyweight"
+            },
+            {
+                "eventId": 81,
+                "eventType": "Taekwondo Women's Flyweight"
+            },
+            {
+                "eventId": 138,
+                "eventType": "Taekwondo Women's Heavyweight"
+            },
+            {
+                "eventId": 141,
+                "eventType": "Taekwondo Women's Featherweight"
+            },
+            {
+                "eventId": 199,
+                "eventType": "Taekwondo Men's Featherweight"
+            },
+            {
+                "eventId": 200,
+                "eventType": "Taekwondo Men's Welterweight"
+            },
+            {
+                "eventId": 448,
+                "eventType": "Taekwondo Men's Heavyweight"
+            },
+            {
+                "eventId": 450,
+                "eventType": "Taekwondo Women's Welterweight"
+            }
+        ]
+    },
+    {
+        "sportId": 29,
+        "sportsType": "Cycling",
+        "events": [
+            {
+                "eventId": 75,
+                "eventType": "Cycling Men's Road Race, Individual"
+            },
+            {
+                "eventId": 76,
+                "eventType": "Cycling Men's Road Race, Team"
+            },
+            {
+                "eventId": 99,
+                "eventType": "Cycling Women's Sprint"
+            },
+            {
+                "eventId": 100,
+                "eventType": "Cycling Women's 500 metres Time Trial"
+            },
+            {
+                "eventId": 132,
+                "eventType": "Cycling Women's Road Race, Individual"
+            },
+            {
+                "eventId": 202,
+                "eventType": "Cycling Men's Sprint"
+            },
+            {
+                "eventId": 209,
+                "eventType": "Cycling Men's 100 kilometres Team Time Trial"
+            },
+            {
+                "eventId": 252,
+                "eventType": "Cycling Men's 1,000 metres Time Trial"
+            },
+            {
+                "eventId": 253,
+                "eventType": "Cycling Men's Individual Pursuit, 4,000 metres"
+            },
+            {
+                "eventId": 273,
+                "eventType": "Cycling Women's Mountainbike, Cross-Country"
+            },
+            {
+                "eventId": 277,
+                "eventType": "Cycling Men's Mountainbike, Cross-Country"
+            },
+            {
+                "eventId": 290,
+                "eventType": "Cycling Men's Team Pursuit, 4,000 metres"
+            },
+            {
+                "eventId": 379,
+                "eventType": "Cycling Men's Tandem Sprint, 2,000 metres"
+            },
+            {
+                "eventId": 382,
+                "eventType": "Cycling Men's Points Race"
+            },
+            {
+                "eventId": 431,
+                "eventType": "Cycling Men's Madison"
+            },
+            {
+                "eventId": 437,
+                "eventType": "Cycling Men's Individual Time Trial"
+            },
+            {
+                "eventId": 453,
+                "eventType": "Cycling Men's 50 kilometres"
+            },
+            {
+                "eventId": 455,
+                "eventType": "Cycling Men's 333 metres Time Trial"
+            },
+            {
+                "eventId": 456,
+                "eventType": "Cycling Men's 20 kilometres"
+            },
+            {
+                "eventId": 477,
+                "eventType": "Cycling Women's BMX"
+            },
+            {
+                "eventId": 499,
+                "eventType": "Cycling Men's BMX"
+            },
+            {
+                "eventId": 547,
+                "eventType": "Cycling Men's Team Pursuit, 1,980 yards"
+            },
+            {
+                "eventId": 548,
+                "eventType": "Cycling Men's 5,000 metres"
+            },
+            {
+                "eventId": 549,
+                "eventType": "Cycling Men's 100 kilometres"
+            },
+            {
+                "eventId": 560,
+                "eventType": "Cycling Men's 1/4 mile"
+            },
+            {
+                "eventId": 561,
+                "eventType": "Cycling Men's 1/2 mile"
+            },
+            {
+                "eventId": 562,
+                "eventType": "Cycling Men's 5 mile"
+            },
+            {
+                "eventId": 563,
+                "eventType": "Cycling Men's 25 mile"
+            },
+            {
+                "eventId": 568,
+                "eventType": "Cycling Women's Team Pursuit"
+            },
+            {
+                "eventId": 574,
+                "eventType": "Cycling Women's Individual Time Trial"
+            },
+            {
+                "eventId": 578,
+                "eventType": "Cycling Men's Omnium"
+            },
+            {
+                "eventId": 582,
+                "eventType": "Cycling Women's Individual Pursuit, 3,000 metres"
+            },
+            {
+                "eventId": 583,
+                "eventType": "Cycling Women's Points Race"
+            },
+            {
+                "eventId": 585,
+                "eventType": "Cycling Men's Keirin"
+            },
+            {
+                "eventId": 586,
+                "eventType": "Cycling Men's Team Sprint"
+            },
+            {
+                "eventId": 631,
+                "eventType": "Cycling Men's 25 kilometres"
+            },
+            {
+                "eventId": 639,
+                "eventType": "Cycling Women's Keirin"
+            },
+            {
+                "eventId": 650,
+                "eventType": "Cycling Women's Omnium"
+            },
+            {
+                "eventId": 660,
+                "eventType": "Cycling Men's 1/3 mile"
+            },
+            {
+                "eventId": 661,
+                "eventType": "Cycling Men's 1 mile"
+            },
+            {
+                "eventId": 662,
+                "eventType": "Cycling Men's 2 mile"
+            },
+            {
+                "eventId": 704,
+                "eventType": "Cycling Women's Team Sprint"
+            },
+            {
+                "eventId": 745,
+                "eventType": "Cycling Men's 10,000 metres"
+            },
+            {
+                "eventId": 759,
+                "eventType": "Cycling Men's 12-Hours Race"
+            }
+        ]
+    },
+    {
+        "sportId": 30,
+        "sportsType": "Diving",
+        "events": [
+            {
+                "eventId": 84,
+                "eventType": "Diving Men's Platform"
+            },
+            {
+                "eventId": 146,
+                "eventType": "Diving Women's Platform"
+            },
+            {
+                "eventId": 219,
+                "eventType": "Diving Women's Springboard"
+            },
+            {
+                "eventId": 220,
+                "eventType": "Diving Women's Synchronized Springboard"
+            },
+            {
+                "eventId": 279,
+                "eventType": "Diving Men's Springboard"
+            },
+            {
+                "eventId": 361,
+                "eventType": "Diving Women's Plain High"
+            },
+            {
+                "eventId": 365,
+                "eventType": "Diving Men's Plain High"
+            },
+            {
+                "eventId": 404,
+                "eventType": "Diving Men's Synchronized Platform"
+            },
+            {
+                "eventId": 470,
+                "eventType": "Diving Women's Synchronized Platform"
+            },
+            {
+                "eventId": 485,
+                "eventType": "Diving Men's Synchronized Springboard"
+            }
+        ]
+    },
+    {
+        "sportId": 31,
+        "sportsType": "Canoeing",
+        "events": [
+            {
+                "eventId": 85,
+                "eventType": "Canoeing Men's Canadian Doubles, 500 metres"
+            },
+            {
+                "eventId": 86,
+                "eventType": "Canoeing Men's Canadian Doubles, 1,000 metres"
+            },
+            {
+                "eventId": 87,
+                "eventType": "Canoeing Men's Kayak Fours, 1,000 metres"
+            },
+            {
+                "eventId": 235,
+                "eventType": "Canoeing Men's Kayak Doubles, 500 metres"
+            },
+            {
+                "eventId": 236,
+                "eventType": "Canoeing Men's Kayak Singles, 500 metres"
+            },
+            {
+                "eventId": 237,
+                "eventType": "Canoeing Men's Kayak Singles, 1,000 metres"
+            },
+            {
+                "eventId": 262,
+                "eventType": "Canoeing Men's Kayak Singles, Slalom"
+            },
+            {
+                "eventId": 302,
+                "eventType": "Canoeing Women's Kayak Fours, 500 metres"
+            },
+            {
+                "eventId": 359,
+                "eventType": "Canoeing Men's Canadian Doubles, Slalom"
+            },
+            {
+                "eventId": 391,
+                "eventType": "Canoeing Men's Kayak Doubles, 10,000 metres"
+            },
+            {
+                "eventId": 401,
+                "eventType": "Canoeing Men's Canadian Singles, 1,000 metres"
+            },
+            {
+                "eventId": 406,
+                "eventType": "Canoeing Women's Kayak Singles, Slalom"
+            },
+            {
+                "eventId": 435,
+                "eventType": "Canoeing Women's Kayak Doubles, 500 metres"
+            },
+            {
+                "eventId": 439,
+                "eventType": "Canoeing Men's Kayak Doubles, 1,000 metres"
+            },
+            {
+                "eventId": 457,
+                "eventType": "Canoeing Men's Kayak Singles, 10,000 metres"
+            },
+            {
+                "eventId": 460,
+                "eventType": "Canoeing Men's Canadian Singles, Slalom"
+            },
+            {
+                "eventId": 478,
+                "eventType": "Canoeing Men's Kayak Doubles, 200 metres"
+            },
+            {
+                "eventId": 481,
+                "eventType": "Canoeing Women's Kayak Singles, 500 metres"
+            },
+            {
+                "eventId": 516,
+                "eventType": "Canoeing Women's Kayak Singles, 200 metres"
+            },
+            {
+                "eventId": 517,
+                "eventType": "Canoeing Men's Kayak Relay 4 x 500 metres"
+            },
+            {
+                "eventId": 527,
+                "eventType": "Canoeing Men's Canadian Singles, 500 metres"
+            },
+            {
+                "eventId": 551,
+                "eventType": "Canoeing Men's Canadian Singles, 10,000 metres"
+            },
+            {
+                "eventId": 616,
+                "eventType": "Canoeing Men's Kayak Singles, 200 metres"
+            },
+            {
+                "eventId": 643,
+                "eventType": "Canoeing Men's Canadian Singles, 200 metres"
+            },
+            {
+                "eventId": 666,
+                "eventType": "Canoeing Men's Folding Kayak Doubles, 10 kilometres"
+            },
+            {
+                "eventId": 672,
+                "eventType": "Canoeing Men's Canadian Doubles, 10,000 metres"
+            },
+            {
+                "eventId": 735,
+                "eventType": "Canoeing Men's Folding Kayak Singles, 10 kilometres"
+            }
+        ]
+    },
+    {
+        "sportId": 32,
+        "sportsType": "Tennis",
+        "events": [
+            {
+                "eventId": 93,
+                "eventType": "Tennis Men's Doubles"
+            },
+            {
+                "eventId": 192,
+                "eventType": "Tennis Men's Singles"
+            },
+            {
+                "eventId": 364,
+                "eventType": "Tennis Women's Singles, Covered Courts"
+            },
+            {
+                "eventId": 430,
+                "eventType": "Tennis Mixed Doubles, Covered Courts"
+            },
+            {
+                "eventId": 509,
+                "eventType": "Tennis Women's Singles"
+            },
+            {
+                "eventId": 510,
+                "eventType": "Tennis Mixed Doubles"
+            },
+            {
+                "eventId": 511,
+                "eventType": "Tennis Women's Doubles"
+            },
+            {
+                "eventId": 629,
+                "eventType": "Tennis Men's Doubles, Covered Courts"
+            },
+            {
+                "eventId": 630,
+                "eventType": "Tennis Men's Singles, Covered Courts"
+            }
+        ]
+    },
+    {
+        "sportId": 33,
+        "sportsType": "Modern Pentathlon",
+        "events": [
+            {
+                "eventId": 110,
+                "eventType": "Modern Pentathlon Men's Individual"
+            },
+            {
+                "eventId": 173,
+                "eventType": "Modern Pentathlon Men's Team"
+            },
+            {
+                "eventId": 358,
+                "eventType": "Modern Pentathlon Women's Individual"
+            }
+        ]
+    },
+    {
+        "sportId": 34,
+        "sportsType": "Figure Skating",
+        "events": [
+            {
+                "eventId": 126,
+                "eventType": "Figure Skating Men's Singles"
+            },
+            {
+                "eventId": 130,
+                "eventType": "Figure Skating Mixed Team"
+            },
+            {
+                "eventId": 243,
+                "eventType": "Figure Skating Mixed Pairs"
+            },
+            {
+                "eventId": 269,
+                "eventType": "Figure Skating Women's Singles"
+            },
+            {
+                "eventId": 388,
+                "eventType": "Figure Skating Mixed Ice Dancing"
+            },
+            {
+                "eventId": 726,
+                "eventType": "Figure Skating Men's Special Figures"
+            }
+        ]
+    },
+    {
+        "sportId": 35,
+        "sportsType": "Golf",
+        "events": [
+            {
+                "eventId": 133,
+                "eventType": "Golf Women's Individual"
+            },
+            {
+                "eventId": 316,
+                "eventType": "Golf Men's Individual"
+            },
+            {
+                "eventId": 701,
+                "eventType": "Golf Men's Team"
+            }
+        ]
+    },
+    {
+        "sportId": 36,
+        "sportsType": "Softball",
+        "events": [
+            {
+                "eventId": 134,
+                "eventType": "Softball Women's Softball"
+            }
+        ]
+    },
+    {
+        "sportId": 37,
+        "sportsType": "Archery",
+        "events": [
+            {
+                "eventId": 135,
+                "eventType": "Archery Women's Individual"
+            },
+            {
+                "eventId": 263,
+                "eventType": "Archery Men's Individual"
+            },
+            {
+                "eventId": 264,
+                "eventType": "Archery Men's Team"
+            },
+            {
+                "eventId": 331,
+                "eventType": "Archery Women's Team"
+            },
+            {
+                "eventId": 490,
+                "eventType": "Archery Men's Target Archery, 28 metres, Team"
+            },
+            {
+                "eventId": 491,
+                "eventType": "Archery Men's Target Archery, 33 metres, Team"
+            },
+            {
+                "eventId": 492,
+                "eventType": "Archery Men's Target Archery, 50 metres, Team"
+            },
+            {
+                "eventId": 577,
+                "eventType": "Archery Women's Double National Round"
+            },
+            {
+                "eventId": 594,
+                "eventType": "Archery Men's Continental Style"
+            },
+            {
+                "eventId": 609,
+                "eventType": "Archery Men's Double York Round"
+            },
+            {
+                "eventId": 640,
+                "eventType": "Archery Men's Au Cordon Dore, 50 metres"
+            },
+            {
+                "eventId": 694,
+                "eventType": "Archery Men's Double American Round"
+            },
+            {
+                "eventId": 695,
+                "eventType": "Archery Men's Team Round"
+            },
+            {
+                "eventId": 696,
+                "eventType": "Archery Men's Target Archery, 33 metres, Individual"
+            },
+            {
+                "eventId": 697,
+                "eventType": "Archery Men's Target Archery, 50 metres, Individual"
+            },
+            {
+                "eventId": 719,
+                "eventType": "Archery Men's Pole Archery, Small Birds, Individual"
+            },
+            {
+                "eventId": 720,
+                "eventType": "Archery Men's Pole Archery, Large Birds, Individual"
+            },
+            {
+                "eventId": 721,
+                "eventType": "Archery Men's Pole Archery, Small Birds, Team"
+            },
+            {
+                "eventId": 722,
+                "eventType": "Archery Men's Pole Archery, Large Birds, Team"
+            },
+            {
+                "eventId": 724,
+                "eventType": "Archery Women's Double Columbia Round"
+            },
+            {
+                "eventId": 739,
+                "eventType": "Archery Men's Sur La Perche a La Herse"
+            },
+            {
+                "eventId": 749,
+                "eventType": "Archery Men's Sur La Perche a La Pyramide"
+            },
+            {
+                "eventId": 754,
+                "eventType": "Archery Men's Unknown Event"
+            },
+            {
+                "eventId": 755,
+                "eventType": "Archery Men's Au Chapelet, 50 metres"
+            },
+            {
+                "eventId": 756,
+                "eventType": "Archery Men's Championnat Du Monde"
+            },
+            {
+                "eventId": 757,
+                "eventType": "Archery Women's Team Round"
+            },
+            {
+                "eventId": 762,
+                "eventType": "Archery Men's Au Chapelet, 33 metres"
+            },
+            {
+                "eventId": 763,
+                "eventType": "Archery Men's Au Cordon Dore, 33 metres"
+            },
+            {
+                "eventId": 764,
+                "eventType": "Archery Men's Target Archery, 28 metres, Individual"
+            }
+        ]
+    },
+    {
+        "sportId": 38,
+        "sportsType": "Volleyball",
+        "events": [
+            {
+                "eventId": 137,
+                "eventType": "Volleyball Men's Volleyball"
+            },
+            {
+                "eventId": 164,
+                "eventType": "Volleyball Women's Volleyball"
+            }
+        ]
+    },
+    {
+        "sportId": 39,
+        "sportsType": "Synchronized Swimming",
+        "events": [
+            {
+                "eventId": 139,
+                "eventType": "Synchronized Swimming Women's Duet"
+            },
+            {
+                "eventId": 140,
+                "eventType": "Synchronized Swimming Women's Team"
+            },
+            {
+                "eventId": 383,
+                "eventType": "Synchronized Swimming Women's Solo"
+            }
+        ]
+    },
+    {
+        "sportId": 40,
+        "sportsType": "Table Tennis",
+        "events": [
+            {
+                "eventId": 176,
+                "eventType": "Table Tennis Women's Singles"
+            },
+            {
+                "eventId": 177,
+                "eventType": "Table Tennis Women's Doubles"
+            },
+            {
+                "eventId": 242,
+                "eventType": "Table Tennis Men's Team"
+            },
+            {
+                "eventId": 281,
+                "eventType": "Table Tennis Men's Singles"
+            },
+            {
+                "eventId": 346,
+                "eventType": "Table Tennis Men's Doubles"
+            },
+            {
+                "eventId": 614,
+                "eventType": "Table Tennis Women's Team"
+            }
+        ]
+    },
+    {
+        "sportId": 41,
+        "sportsType": "Nordic Combined",
+        "events": [
+            {
+                "eventId": 205,
+                "eventType": "Nordic Combined Men's Team"
+            },
+            {
+                "eventId": 206,
+                "eventType": "Nordic Combined Men's Individual"
+            },
+            {
+                "eventId": 287,
+                "eventType": "Nordic Combined Men's Sprint"
+            },
+            {
+                "eventId": 632,
+                "eventType": "Nordic Combined Men's Normal Hill / 10 km, Individual"
+            },
+            {
+                "eventId": 633,
+                "eventType": "Nordic Combined Men's Large Hill / 10 km, Individual"
+            }
+        ]
+    },
+    {
+        "sportId": 42,
+        "sportsType": "Baseball",
+        "events": [
+            {
+                "eventId": 207,
+                "eventType": "Baseball Men's Baseball"
+            }
+        ]
+    },
+    {
+        "sportId": 43,
+        "sportsType": "Rhythmic Gymnastics",
+        "events": [
+            {
+                "eventId": 210,
+                "eventType": "Rhythmic Gymnastics Women's Group"
+            },
+            {
+                "eventId": 261,
+                "eventType": "Rhythmic Gymnastics Women's Individual"
+            }
+        ]
+    },
+    {
+        "sportId": 44,
+        "sportsType": "Freestyle Skiing",
+        "events": [
+            {
+                "eventId": 228,
+                "eventType": "Freestyle Skiing Men's Moguls"
+            },
+            {
+                "eventId": 244,
+                "eventType": "Freestyle Skiing Men's Aerials"
+            },
+            {
+                "eventId": 353,
+                "eventType": "Freestyle Skiing Men's Slopestyle"
+            },
+            {
+                "eventId": 380,
+                "eventType": "Freestyle Skiing Women's Halfpipe"
+            },
+            {
+                "eventId": 428,
+                "eventType": "Freestyle Skiing Women's Aerials"
+            },
+            {
+                "eventId": 494,
+                "eventType": "Freestyle Skiing Women's Moguls"
+            },
+            {
+                "eventId": 613,
+                "eventType": "Freestyle Skiing Women's Slopestyle"
+            },
+            {
+                "eventId": 627,
+                "eventType": "Freestyle Skiing Women's Ski Cross"
+            },
+            {
+                "eventId": 628,
+                "eventType": "Freestyle Skiing Men's Ski Cross"
+            },
+            {
+                "eventId": 651,
+                "eventType": "Freestyle Skiing Men's Halfpipe"
+            }
+        ]
+    },
+    {
+        "sportId": 45,
+        "sportsType": "Rugby Sevens",
+        "events": [
+            {
+                "eventId": 241,
+                "eventType": "Rugby Sevens Women's Rugby Sevens"
+            },
+            {
+                "eventId": 356,
+                "eventType": "Rugby Sevens Men's Rugby Sevens"
+            }
+        ]
+    },
+    {
+        "sportId": 46,
+        "sportsType": "Trampolining",
+        "events": [
+            {
+                "eventId": 271,
+                "eventType": "Trampolining Men's Individual"
+            },
+            {
+                "eventId": 305,
+                "eventType": "Trampolining Women's Individual"
+            }
+        ]
+    },
+    {
+        "sportId": 47,
+        "sportsType": "Beach Volleyball",
+        "events": [
+            {
+                "eventId": 272,
+                "eventType": "Beach Volleyball Men's Beach Volleyball"
+            },
+            {
+                "eventId": 397,
+                "eventType": "Beach Volleyball Women's Beach Volleyball"
+            }
+        ]
+    },
+    {
+        "sportId": 48,
+        "sportsType": "Triathlon",
+        "events": [
+            {
+                "eventId": 275,
+                "eventType": "Triathlon Women's Olympic Distance"
+            },
+            {
+                "eventId": 392,
+                "eventType": "Triathlon Men's Olympic Distance"
+            }
+        ]
+    },
+    {
+        "sportId": 49,
+        "sportsType": "Ski Jumping",
+        "events": [
+            {
+                "eventId": 301,
+                "eventType": "Ski Jumping Men's Normal Hill, Individual"
+            },
+            {
+                "eventId": 419,
+                "eventType": "Ski Jumping Men's Large Hill, Individual"
+            },
+            {
+                "eventId": 420,
+                "eventType": "Ski Jumping Men's Large Hill, Team"
+            },
+            {
+                "eventId": 505,
+                "eventType": "Ski Jumping Women's Normal Hill, Individual"
+            }
+        ]
+    },
+    {
+        "sportId": 50,
+        "sportsType": "Curling",
+        "events": [
+            {
+                "eventId": 306,
+                "eventType": "Curling Men's Curling"
+            },
+            {
+                "eventId": 339,
+                "eventType": "Curling Women's Curling"
+            }
+        ]
+    },
+    {
+        "sportId": 51,
+        "sportsType": "Snowboarding",
+        "events": [
+            {
+                "eventId": 405,
+                "eventType": "Snowboarding Men's Halfpipe"
+            },
+            {
+                "eventId": 515,
+                "eventType": "Snowboarding Women's Halfpipe"
+            },
+            {
+                "eventId": 542,
+                "eventType": "Snowboarding Women's Slopestyle"
+            },
+            {
+                "eventId": 543,
+                "eventType": "Snowboarding Men's Giant Slalom"
+            },
+            {
+                "eventId": 544,
+                "eventType": "Snowboarding Men's Parallel Giant Slalom"
+            },
+            {
+                "eventId": 545,
+                "eventType": "Snowboarding Men's Boardercross"
+            },
+            {
+                "eventId": 546,
+                "eventType": "Snowboarding Men's Parallel Slalom"
+            },
+            {
+                "eventId": 571,
+                "eventType": "Snowboarding Women's Boardercross"
+            },
+            {
+                "eventId": 642,
+                "eventType": "Snowboarding Women's Giant Slalom"
+            },
+            {
+                "eventId": 647,
+                "eventType": "Snowboarding Men's Slopestyle"
+            },
+            {
+                "eventId": 668,
+                "eventType": "Snowboarding Women's Parallel Giant Slalom"
+            },
+            {
+                "eventId": 673,
+                "eventType": "Snowboarding Women's Parallel Slalom"
+            }
+        ]
+    },
+    {
+        "sportId": 52,
+        "sportsType": "Rugby",
+        "events": [
+            {
+                "eventId": 433,
+                "eventType": "Rugby Men's Rugby"
+            }
+        ]
+    },
+    {
+        "sportId": 53,
+        "sportsType": "Short Track Speed Skating",
+        "events": [
+            {
+                "eventId": 436,
+                "eventType": "Short Track Speed Skating Men's 5,000 metres Relay"
+            },
+            {
+                "eventId": 493,
+                "eventType": "Short Track Speed Skating Women's 3,000 metres Relay"
+            },
+            {
+                "eventId": 495,
+                "eventType": "Short Track Speed Skating Men's 500 metres"
+            },
+            {
+                "eventId": 506,
+                "eventType": "Short Track Speed Skating Men's 1,000 metres"
+            },
+            {
+                "eventId": 507,
+                "eventType": "Short Track Speed Skating Men's 1,500 metres"
+            },
+            {
+                "eventId": 617,
+                "eventType": "Short Track Speed Skating Women's 500 metres"
+            },
+            {
+                "eventId": 624,
+                "eventType": "Short Track Speed Skating Women's 1,000 metres"
+            },
+            {
+                "eventId": 635,
+                "eventType": "Short Track Speed Skating Women's 1,500 metres"
+            }
+        ]
+    },
+    {
+        "sportId": 54,
+        "sportsType": "Skeleton",
+        "events": [
+            {
+                "eventId": 452,
+                "eventType": "Skeleton Men's Skeleton"
+            },
+            {
+                "eventId": 472,
+                "eventType": "Skeleton Women's Skeleton"
+            }
+        ]
+    },
+    {
+        "sportId": 55,
+        "sportsType": "Lacrosse",
+        "events": [
+            {
+                "eventId": 480,
+                "eventType": "Lacrosse Men's Lacrosse"
+            }
+        ]
+    },
+    {
+        "sportId": 56,
+        "sportsType": "Polo",
+        "events": [
+            {
+                "eventId": 497,
+                "eventType": "Polo Men's Polo"
+            }
+        ]
+    },
+    {
+        "sportId": 57,
+        "sportsType": "Cricket",
+        "events": [
+            {
+                "eventId": 550,
+                "eventType": "Cricket Men's Cricket"
+            }
+        ]
+    },
+    {
+        "sportId": 58,
+        "sportsType": "Racquets",
+        "events": [
+            {
+                "eventId": 590,
+                "eventType": "Racquets Men's Singles"
+            },
+            {
+                "eventId": 591,
+                "eventType": "Racquets Men's Doubles"
+            }
+        ]
+    },
+    {
+        "sportId": 59,
+        "sportsType": "Motorboating",
+        "events": [
+            {
+                "eventId": 593,
+                "eventType": "Motorboating Mixed A-Class (Open)"
+            },
+            {
+                "eventId": 743,
+                "eventType": "Motorboating Mixed B-Class (Under 60 Feet)"
+            },
+            {
+                "eventId": 744,
+                "eventType": "Motorboating Mixed C-Class"
+            }
+        ]
+    },
+    {
+        "sportId": 60,
+        "sportsType": "Military Ski Patrol",
+        "events": [
+            {
+                "eventId": 595,
+                "eventType": "Military Ski Patrol Men's Military Ski Patrol"
+            }
+        ]
+    },
+    {
+        "sportId": 61,
+        "sportsType": "Croquet",
+        "events": [
+            {
+                "eventId": 601,
+                "eventType": "Croquet Mixed Singles, One Ball"
+            },
+            {
+                "eventId": 602,
+                "eventType": "Croquet Mixed Doubles"
+            },
+            {
+                "eventId": 665,
+                "eventType": "Croquet Mixed Singles, Two Balls"
+            }
+        ]
+    },
+    {
+        "sportId": 62,
+        "sportsType": "Jeu De Paume",
+        "events": [
+            {
+                "eventId": 658,
+                "eventType": "Jeu De Paume Men's Singles"
+            }
+        ]
+    },
+    {
+        "sportId": 63,
+        "sportsType": "Roque",
+        "events": [
+            {
+                "eventId": 691,
+                "eventType": "Roque Men's Singles"
+            }
+        ]
+    },
+    {
+        "sportId": 64,
+        "sportsType": "Alpinism",
+        "events": [
+            {
+                "eventId": 693,
+                "eventType": "Alpinism Mixed Alpinism"
+            }
+        ]
+    },
+    {
+        "sportId": 65,
+        "sportsType": "Basque Pelota",
+        "events": [
+            {
+                "eventId": 731,
+                "eventType": "Basque Pelota Men's Two-Man Teams With Cesta"
+            }
+        ]
+    },
+    {
+        "sportId": 66,
+        "sportsType": "Aeronautics",
+        "events": [
+            {
+                "eventId": 765,
+                "eventType": "Aeronautics Mixed Aeronautics"
+            }
+        ]
+    }
+]
